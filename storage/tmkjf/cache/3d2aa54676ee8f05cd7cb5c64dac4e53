@@ -1,0 +1,76 @@
+a:5:{s:8:"template";s:7658:"<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8";.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal} html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0} html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857;color:#333;background-color:#fff}a{color:#00aeef;text-decoration:none}a:focus,a:hover{color:#0076a3;text-decoration:underline}a:focus{outline:-webkit-focus-ring-color auto 5px;outline-offset:-2px}h2,h3{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h2,h3{margin-top:20px;margin-bottom:10px}h2{font-size:30px}h3{font-size:24px}p{margin:0 0 10px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container:after,.container:before{content:" ";display:table}.container:after{clear:both}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.container-fluid{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container-fluid:after,.container-fluid:before{content:" ";display:table}.container-fluid:after{clear:both}.row{margin-left:-15px;margin-right:-15px}.row:after,.row:before{content:" ";display:table}.row:after{clear:both}.col-md-3,.col-sm-12,.col-sm-3,.col-sm-6,.col-xs-12{position:relative;min-height:1px;padding-left:15px;padding-right:15px}.col-xs-12{float:left}.col-xs-12{width:100%}@media (min-width:768px){.col-sm-12,.col-sm-3,.col-sm-6{float:left}.col-sm-3{width:25%}.col-sm-6{width:50%}.col-sm-12{width:100%}}@media (min-width:992px){.col-md-3{float:left}.col-md-3{width:25%}}@-ms-viewport{width:device-width} #footer-section,.footer-bottom,.header-bottom,.header-top{width:100%}.compare-panel{height:100%}#section-body,.header-section-2,.navi>ul>li{position:relative}.compare-panel{position:fixed}.navi a{display:inline-block}.header-top{display:table}.header-section-2 .logo{display:table-cell}.footer-bottom p,.footer-widget .widget-title,.navi>ul{margin:0}.container,ul{padding:0}.header-bottom .header-nav,.logo,.navi>ul>li{float:left}.header-section-2 .logo{float:none}.header-section-2 .logo{vertical-align:middle!important}.compare-panel{right:0}.compare-panel{top:0}.navi>ul:after,.navi>ul:before{content:" ";display:table}.navi>ul:after{clear:both}a{-webkit-transition:.3s;transition:.3s}.compare-panel{-webkit-transition:all .9s cubic-bezier(.19,1,.22,1) 0s;transition:all .9s cubic-bezier(.19,1,.22,1) 0s}@media (max-width:768px){.container{padding-right:15px;padding-left:15px}}@media (max-width:767px){.container{width:480px}}@media (max-width:481px){.container{width:100%}}body{text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;padding-right:0!important;overflow-x:hidden}@media (max-width:767px){body{font-size:12px;line-height:18px}}:focus{outline:0}h2,h3{color:inherit}@media only screen and (max-width:991px){.header-bottom{display:none}}.header-section-2{z-index:11}.header-section-2 .logo{padding-left:20px}.header-section-2 .header-top{min-height:70px}@media (max-width:991px){.header-section-2 .header-top{padding:10px 15px;height:45px;min-height:0}}.header-section-2 .navi>ul>li>a{padding:0 15px;line-height:46px}.navi li,.navi ul{list-style:none}.navi a{padding:15px;-webkit-user-select:none}.navi>ul>li{overflow:hidden}#section-body{padding-bottom:40px}.compare-panel{z-index:1000;width:240px;background-color:#fff;box-shadow:0 2px 4px 0 rgba(0,0,0,.2);-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}.widget-top{margin-bottom:17px}.widget-body{font-size:14px}.footer-widget{margin-bottom:30px}@media (min-width:768px) and (max-width:991px){.footer-widget{margin-bottom:30px}}@media (max-width:767px){.footer-widget{margin-bottom:30px}}.footer-widget .widget-title{font-size:18px;line-height:24px}.footer{margin-bottom:-30px;padding:100px 0 70px;background-color:#363636}@media (max-width:767px){.footer{padding:45px 0 35px}}.footer-bottom{padding:30px 0 25px;font-size:14px}@media (max-width:767px){.footer-bottom{padding:15px 0}}@media (max-width:767px){.footer-bottom div[class*=col-]{margin-bottom:15px;text-align:center}.footer-bottom div[class*=col-]:last-child{margin:0}}p{margin:0 0 20px 0}h2{font-size:20px;line-height:24px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h2{font-size:16px;line-height:22px;margin-bottom:15px}}h3{font-size:18px;line-height:22px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h3{font-size:14px;line-height:18px;margin-bottom:15px}}@media (max-width:767px){p{font-size:12px;line-height:22px;margin-bottom:15px}} @font-face{font-family:Raleway;font-style:normal;font-weight:700;src:local('Raleway Bold'),local('Raleway-Bold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwJYtWqZPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:800;src:local('Raleway ExtraBold'),local('Raleway-ExtraBold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwIouWqZPBQ.ttf) format('truetype')}@font-face{font-family:Roboto;font-style:normal;font-weight:900;src:local('Roboto Black'),local('Roboto-Black'),url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfBBc9.ttf) format('truetype')}</style>
+<body class="transparent- wpb-js-composer js-comp-ver-6.1 vc_responsive cornerstone-v3_5_4">
+<header class="header-section-2 houzez-header-main houzez-user-logout" id="header-section">
+<div class="header-top">
+<div class="logo logo-desktop">
+<a href="#">
+<h2>
+{{ keyword }}
+</h2>
+</a>
+</div>
+</div>
+<div class="header-bottom" data-sticky="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-12 col-xs-12">
+<div class="header-nav">
+<nav class="navi main-nav">
+<ul class="" id="main-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-613" id="menu-item-613"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-614" id="menu-item-614"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-645" id="menu-item-645"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-827" id="menu-item-827"><a href="#">Contact Us</a></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="" id="section-body">
+<div class="container">
+<div class="compare-panel" id="compare-controller">
+<div id="compare-properties-basket">
+</div>
+</div>
+{{ text }}
+ </div> 
+</div> 
+<footer id="footer-section">
+<div class="footer footer-v2">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-6 col-xs-12"><div class="footer-widget widget-about" id="houzez_about_widget-1"><div class="widget-top"><h3 class="widget-title" style="color:#FFF">Related</h3></div>
+<div class="widget-body" style="color:#FFF">
+{{ links }}
+</div>
+</div></div></div>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-3">
+<div class="footer-col">
+<p>{{ keyword }} 2021</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:3560:"Ohio Courts will remain open to fulfill their constitutional and statutory responsibilities. not been previously identified.in humans and can easily spread from person to person.The virus is spread between … Two new state health orders increase the number of people allowed in arenas, stadiums, theaters, wedding venues and catering facilities as Ohio sees more favorable COVID-19 numbers. Nothing in this Order shall be construed to suspend any federal or state law. View a copy of the official Executive Order [PDF] WHEREAS, COVID-19 is a respiratory disease that can result in serious illness or death, is caused by the SARS-CoV-2 virus, which is a new strain of coronavirus that had not been previously identified in humans and can easily spread from person to person. Executive Order 2020-01D. > COVID-19 Update: Ohioans Encouraged to Wear Cloth Masks in Public, TeleHealth Executive Order, New Wi-Fi Hotspot Locator April 4, 2020 > COVID-19 Update: Testing Supplies, PPE Sanitizing, Inmate Release Recommendation, Remote Learning Guide April 3, 2020 > COVID-19 Update: Ohio Stay at Home Order Extended Through May 1 April 2, 2020 Declaring a State of Emergency. I signed this Executive Order on April 1, 2020, in Columbus, Ohio, and it shall take effect immediately and remain in full force and effect for ninety (90) days unless modified or rescinded by me before then. Normally, if an employee refuses, without good cause, to return to the same position they previously held, the employee is ineligible for unemployment compensation. _____ Mike DeWine, Governor . … Executive Order 2020-03 Small, Minority and Women Owned Business Assistance Executive Order 2020-02 Supplemental Order Pertaining to Operations of Boards, Commissions and Panels Executive Order 2020-01 COVID-19 On March 11, 2020, the World Health Organization officially declared COVID-19 to be a … March 18, 2020: Governor Mike DeWine ordered temporary closure of Ohio's barbershops, hair salons, nail salons, and tattoo parlors due to the ongoing COVID-19 pandemic. Read the public health and executive orders signed by the governor and health director in response to COVID-19. 2. All Ohio's COVID-19 orders except those applying to nursing homes and other long-term care facilities will end, the Republican said during a primetime address. On March 9, 2020, Ohio Governor Mike DeWine issued Executive Order 2020-01D "Declaring a State of Emergency" in response to the growing COVID-19 public health crisis. The Ohio Board of Nursing (Board) recognizes that an adequate and safe nursing workforce is vital during times of On June 16, 2020, Ohio Governor Mike DeWine issued a new executive order expanding unemployment compensation eligibility in response to the COVID-19 pandemic. Governor DeWine also signed an executive order to expand and enhance telehealth options for Ohio Medicaid recipients and their providers amid the coronavirus outbreak. Ohio Governor Mike DeWine issued Executive Order 2020-01D declaring a state of emergency in Ohio to protect the well-being of the citizens of Ohio from the dangerous effects of COVID-19. However, as the limitations on social interactions in public spaces continue to expand to address the spread of COVID-19, nearly all courts have modified their procedures.Court operations have been modified, and many courts have significantly limited in-person interactions.  1. May 04, 2021 Those entering Ohio after travel to states reporting positive testing rates of 15% or higher for COVID-19 are advised to self-quarantine for 14 days. ";s:7:"keyword";s:27:"ohio covid executive orders";s:5:"links";s:718:"<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/inviable-meaning-in-tamil">Inviable Meaning In Tamil</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/an-evening-in-paris">An Evening In Paris</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/arena-of-valor">Arena Of Valor</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/how-much-does-a-baby-walrus-weigh">How Much Does A Baby Walrus Weigh</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/the-road-to-yesterday">The Road To Yesterday</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/seafood-stall-wickford">Seafood Stall Wickford</a>,
+";s:7:"expired";i:-1;}

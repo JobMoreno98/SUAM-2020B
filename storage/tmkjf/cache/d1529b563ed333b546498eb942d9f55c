@@ -1,0 +1,81 @@
+a:5:{s:8:"template";s:7658:"<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8";.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal} html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0} html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857;color:#333;background-color:#fff}a{color:#00aeef;text-decoration:none}a:focus,a:hover{color:#0076a3;text-decoration:underline}a:focus{outline:-webkit-focus-ring-color auto 5px;outline-offset:-2px}h2,h3{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h2,h3{margin-top:20px;margin-bottom:10px}h2{font-size:30px}h3{font-size:24px}p{margin:0 0 10px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container:after,.container:before{content:" ";display:table}.container:after{clear:both}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.container-fluid{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container-fluid:after,.container-fluid:before{content:" ";display:table}.container-fluid:after{clear:both}.row{margin-left:-15px;margin-right:-15px}.row:after,.row:before{content:" ";display:table}.row:after{clear:both}.col-md-3,.col-sm-12,.col-sm-3,.col-sm-6,.col-xs-12{position:relative;min-height:1px;padding-left:15px;padding-right:15px}.col-xs-12{float:left}.col-xs-12{width:100%}@media (min-width:768px){.col-sm-12,.col-sm-3,.col-sm-6{float:left}.col-sm-3{width:25%}.col-sm-6{width:50%}.col-sm-12{width:100%}}@media (min-width:992px){.col-md-3{float:left}.col-md-3{width:25%}}@-ms-viewport{width:device-width} #footer-section,.footer-bottom,.header-bottom,.header-top{width:100%}.compare-panel{height:100%}#section-body,.header-section-2,.navi>ul>li{position:relative}.compare-panel{position:fixed}.navi a{display:inline-block}.header-top{display:table}.header-section-2 .logo{display:table-cell}.footer-bottom p,.footer-widget .widget-title,.navi>ul{margin:0}.container,ul{padding:0}.header-bottom .header-nav,.logo,.navi>ul>li{float:left}.header-section-2 .logo{float:none}.header-section-2 .logo{vertical-align:middle!important}.compare-panel{right:0}.compare-panel{top:0}.navi>ul:after,.navi>ul:before{content:" ";display:table}.navi>ul:after{clear:both}a{-webkit-transition:.3s;transition:.3s}.compare-panel{-webkit-transition:all .9s cubic-bezier(.19,1,.22,1) 0s;transition:all .9s cubic-bezier(.19,1,.22,1) 0s}@media (max-width:768px){.container{padding-right:15px;padding-left:15px}}@media (max-width:767px){.container{width:480px}}@media (max-width:481px){.container{width:100%}}body{text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;padding-right:0!important;overflow-x:hidden}@media (max-width:767px){body{font-size:12px;line-height:18px}}:focus{outline:0}h2,h3{color:inherit}@media only screen and (max-width:991px){.header-bottom{display:none}}.header-section-2{z-index:11}.header-section-2 .logo{padding-left:20px}.header-section-2 .header-top{min-height:70px}@media (max-width:991px){.header-section-2 .header-top{padding:10px 15px;height:45px;min-height:0}}.header-section-2 .navi>ul>li>a{padding:0 15px;line-height:46px}.navi li,.navi ul{list-style:none}.navi a{padding:15px;-webkit-user-select:none}.navi>ul>li{overflow:hidden}#section-body{padding-bottom:40px}.compare-panel{z-index:1000;width:240px;background-color:#fff;box-shadow:0 2px 4px 0 rgba(0,0,0,.2);-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}.widget-top{margin-bottom:17px}.widget-body{font-size:14px}.footer-widget{margin-bottom:30px}@media (min-width:768px) and (max-width:991px){.footer-widget{margin-bottom:30px}}@media (max-width:767px){.footer-widget{margin-bottom:30px}}.footer-widget .widget-title{font-size:18px;line-height:24px}.footer{margin-bottom:-30px;padding:100px 0 70px;background-color:#363636}@media (max-width:767px){.footer{padding:45px 0 35px}}.footer-bottom{padding:30px 0 25px;font-size:14px}@media (max-width:767px){.footer-bottom{padding:15px 0}}@media (max-width:767px){.footer-bottom div[class*=col-]{margin-bottom:15px;text-align:center}.footer-bottom div[class*=col-]:last-child{margin:0}}p{margin:0 0 20px 0}h2{font-size:20px;line-height:24px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h2{font-size:16px;line-height:22px;margin-bottom:15px}}h3{font-size:18px;line-height:22px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h3{font-size:14px;line-height:18px;margin-bottom:15px}}@media (max-width:767px){p{font-size:12px;line-height:22px;margin-bottom:15px}} @font-face{font-family:Raleway;font-style:normal;font-weight:700;src:local('Raleway Bold'),local('Raleway-Bold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwJYtWqZPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:800;src:local('Raleway ExtraBold'),local('Raleway-ExtraBold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwIouWqZPBQ.ttf) format('truetype')}@font-face{font-family:Roboto;font-style:normal;font-weight:900;src:local('Roboto Black'),local('Roboto-Black'),url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfBBc9.ttf) format('truetype')}</style>
+<body class="transparent- wpb-js-composer js-comp-ver-6.1 vc_responsive cornerstone-v3_5_4">
+<header class="header-section-2 houzez-header-main houzez-user-logout" id="header-section">
+<div class="header-top">
+<div class="logo logo-desktop">
+<a href="#">
+<h2>
+{{ keyword }}
+</h2>
+</a>
+</div>
+</div>
+<div class="header-bottom" data-sticky="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-12 col-xs-12">
+<div class="header-nav">
+<nav class="navi main-nav">
+<ul class="" id="main-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-613" id="menu-item-613"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-614" id="menu-item-614"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-645" id="menu-item-645"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-827" id="menu-item-827"><a href="#">Contact Us</a></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="" id="section-body">
+<div class="container">
+<div class="compare-panel" id="compare-controller">
+<div id="compare-properties-basket">
+</div>
+</div>
+{{ text }}
+ </div> 
+</div> 
+<footer id="footer-section">
+<div class="footer footer-v2">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-6 col-xs-12"><div class="footer-widget widget-about" id="houzez_about_widget-1"><div class="widget-top"><h3 class="widget-title" style="color:#FFF">Related</h3></div>
+<div class="widget-body" style="color:#FFF">
+{{ links }}
+</div>
+</div></div></div>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-3">
+<div class="footer-col">
+<p>{{ keyword }} 2021</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:3224:"Check out Pyar Ka Matlab song lyrics in English and listen to Pyar Ka Matlab song sung by Alka Yagnik on Gaana.com About Us Sonalilyrics contain Hindi Songs Lyrics from Bollywood movies, TV shows, Album, with detail singer, director, lyricist and more. Directed by Anupam Kher, the music has been composed by Anu Malik. Pyar Ka Matlab Lyrics- Get Om Jai Jagadish Pyar Ka Matlab song Lyrics in Hindi. Pyar ka matlab rab rab rab rab hota hai.  Lyrics of Pyar Ka Matlab from the Movie : Om-Jai-Jagadish Singer is in 2002 Year , Music Directer : Anu Malik and Lyrics By : Pyar Ka Matlab features Waheeda Rehman, Anil Kapoor, Abhishek Bachchan, Fardeen Khan, Mahima Chaudhry, Urmila Matondkar, Tara Sharma, Parmeet Sethi, Annu Kapoor, Rakesh Bedi, Lillete Dubey, Arun Bali, Rajesh Khera. Pyar ka matlab rab rab rab rab hota hai. Pyar Ka Matlab composer is Anu Malik and Pyar Ka Matlab lyricist or song writer is Sameer. Pyar ka matlab rab rab rab rab hota hai. Lyrics of Om-Jai-Jagadish Movie , Lyrics of 2002. Pyar Ka Matlab Rab Rab Rab Rab Hota Hai Pyar Ka Matlab Rab Rab Rab Rab Hota Hai. Pyar Ka Matlab Rab Rab Rab Rab Hota Hai Pyar Ka Matlab Rab Rab Rab Rab Hota Hai. Pyar Ka Matlab Song Lyrics from Om Jai Jagadish (2002). Pyar Ka Matlab music director is Anu Malik. Na subaah ka pata na khabar shyaam ki Iski chaahat pe hai bas nasha hi nasha Koyi maane na maane magar sachch hai yeh sab se hoti hai aisi khata Na subaah ka pata na khabar shyaam ki Iski chaahat pe hai bas nasha hi nasha Na Subaah Ka Pata Na Khabar Shyaam Ki Iski Chaahat Pe Hai Bas Nasha Hi Nasha Koyi Maane Na Maane Magar Sachch Hai Yeh Sab Se Hoti Hai Aisi Khata Na Subaah Ka Pata Na Khabar Shyaam Ki Iski Chaahat Pe Hai Bas Nasha Hi Nasha Pyar ka matlab rab rab rab rab hota hai. The film was released on July 19th 2002. Na Subaah Ka Pata Na Khabar Shyaam Ki Iski Chaahat Pe Hai Bas Nasha Hi Nasha Koyi Maane Na Maane Magar Sachch Hai Yeh Sab Se Hoti Hai Aisi Khata Na Subaah Ka Pata Na Khabar Shyaam Ki Iski Chaahat Pe Hai Bas Nasha Hi Nasha The Pyar Ka Matlab lyrics from ‘Om Jai Jagadish’, starring Anil Kapoor, Fardeen Khan and Abhishek Bachchan in the lead roles. Pyar Ka Matlab Lyrics … The lyrics of the song have been penned by Sameer. Pyar Ka Matlab song is sung by Alka Yagnik, Kavita Krishnamurthy, Sonu Nigam, Udit Narayan. Pyar ka kya matlab hota hai Pyar ka matlab rab rab rab rab hota hai Pyar ka matlab rab rab rab rab hota hai. Comments for lyrics of song "Pyaar Kisi Se Kab Hota Hai" Pretty2Wow on Sunday, May 30, 2010 miss this song, and movie! Pyar ka matlab rab rab rab rab hota hai Pyar ka matlab rab rab rab rab hota hai. Pyar Kisise Kab Hota Hai Jab Hona Ho Tab Hota Hai Pyar Ka Kya Matlab Hota Hai Pyar Ka Kya Matlab Hota Hai Pyar Ka Matlab Rab Rab Rab Rab Hota Hai Na subaah ka pata na khabar shyaam ki Iski chaahat pe hai bas nasha hi nasha Koyi maane na maane magar sachch hai yeh sab se hoti hai aisi khata Na subaah ka pata na khabar shyaam ki Iski chaahat pe hai bas nasha hi nasha ... subscribe now to our newsletters. Lyrics of Pyar Ka Matlab from Movie Name: Om-Jai-Jagadish , Year : 2002 LyricsMania.SkPower.co.in Showcase Bollywood Song's Lyrics. although movie a bit sad.. but their happy songs are so good! ";s:7:"keyword";s:34:"pyar ka matlab rab hota hai lyrics";s:5:"links";s:1325:"<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/who%27s-harry-crumb%3F">Who's Harry Crumb?</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/roohi-story-quora">Roohi Story Quora</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/waning-crescent-definition">Waning Crescent Definition</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/i-wanna-be-sedated">I Wanna Be Sedated</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/srini-devadas-programming-for-the-puzzled-pdf">Srini Devadas Programming For The Puzzled Pdf</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/how-to-watch-fahim">How To Watch Fahim</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/the-first-time">The First Time</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/grateful-dead-images">Grateful Dead Images</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/race-to-witch-mountain-tina">Race To Witch Mountain Tina</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/rise-of-the-argonauts">Rise Of The Argonauts</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/michigan-gymnastics-2021">Michigan Gymnastics 2021</a>,
+";s:7:"expired";i:-1;}

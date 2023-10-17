@@ -1,0 +1,75 @@
+a:5:{s:8:"template";s:7658:"<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8";.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal} html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0} html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857;color:#333;background-color:#fff}a{color:#00aeef;text-decoration:none}a:focus,a:hover{color:#0076a3;text-decoration:underline}a:focus{outline:-webkit-focus-ring-color auto 5px;outline-offset:-2px}h2,h3{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h2,h3{margin-top:20px;margin-bottom:10px}h2{font-size:30px}h3{font-size:24px}p{margin:0 0 10px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container:after,.container:before{content:" ";display:table}.container:after{clear:both}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.container-fluid{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container-fluid:after,.container-fluid:before{content:" ";display:table}.container-fluid:after{clear:both}.row{margin-left:-15px;margin-right:-15px}.row:after,.row:before{content:" ";display:table}.row:after{clear:both}.col-md-3,.col-sm-12,.col-sm-3,.col-sm-6,.col-xs-12{position:relative;min-height:1px;padding-left:15px;padding-right:15px}.col-xs-12{float:left}.col-xs-12{width:100%}@media (min-width:768px){.col-sm-12,.col-sm-3,.col-sm-6{float:left}.col-sm-3{width:25%}.col-sm-6{width:50%}.col-sm-12{width:100%}}@media (min-width:992px){.col-md-3{float:left}.col-md-3{width:25%}}@-ms-viewport{width:device-width} #footer-section,.footer-bottom,.header-bottom,.header-top{width:100%}.compare-panel{height:100%}#section-body,.header-section-2,.navi>ul>li{position:relative}.compare-panel{position:fixed}.navi a{display:inline-block}.header-top{display:table}.header-section-2 .logo{display:table-cell}.footer-bottom p,.footer-widget .widget-title,.navi>ul{margin:0}.container,ul{padding:0}.header-bottom .header-nav,.logo,.navi>ul>li{float:left}.header-section-2 .logo{float:none}.header-section-2 .logo{vertical-align:middle!important}.compare-panel{right:0}.compare-panel{top:0}.navi>ul:after,.navi>ul:before{content:" ";display:table}.navi>ul:after{clear:both}a{-webkit-transition:.3s;transition:.3s}.compare-panel{-webkit-transition:all .9s cubic-bezier(.19,1,.22,1) 0s;transition:all .9s cubic-bezier(.19,1,.22,1) 0s}@media (max-width:768px){.container{padding-right:15px;padding-left:15px}}@media (max-width:767px){.container{width:480px}}@media (max-width:481px){.container{width:100%}}body{text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;padding-right:0!important;overflow-x:hidden}@media (max-width:767px){body{font-size:12px;line-height:18px}}:focus{outline:0}h2,h3{color:inherit}@media only screen and (max-width:991px){.header-bottom{display:none}}.header-section-2{z-index:11}.header-section-2 .logo{padding-left:20px}.header-section-2 .header-top{min-height:70px}@media (max-width:991px){.header-section-2 .header-top{padding:10px 15px;height:45px;min-height:0}}.header-section-2 .navi>ul>li>a{padding:0 15px;line-height:46px}.navi li,.navi ul{list-style:none}.navi a{padding:15px;-webkit-user-select:none}.navi>ul>li{overflow:hidden}#section-body{padding-bottom:40px}.compare-panel{z-index:1000;width:240px;background-color:#fff;box-shadow:0 2px 4px 0 rgba(0,0,0,.2);-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}.widget-top{margin-bottom:17px}.widget-body{font-size:14px}.footer-widget{margin-bottom:30px}@media (min-width:768px) and (max-width:991px){.footer-widget{margin-bottom:30px}}@media (max-width:767px){.footer-widget{margin-bottom:30px}}.footer-widget .widget-title{font-size:18px;line-height:24px}.footer{margin-bottom:-30px;padding:100px 0 70px;background-color:#363636}@media (max-width:767px){.footer{padding:45px 0 35px}}.footer-bottom{padding:30px 0 25px;font-size:14px}@media (max-width:767px){.footer-bottom{padding:15px 0}}@media (max-width:767px){.footer-bottom div[class*=col-]{margin-bottom:15px;text-align:center}.footer-bottom div[class*=col-]:last-child{margin:0}}p{margin:0 0 20px 0}h2{font-size:20px;line-height:24px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h2{font-size:16px;line-height:22px;margin-bottom:15px}}h3{font-size:18px;line-height:22px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h3{font-size:14px;line-height:18px;margin-bottom:15px}}@media (max-width:767px){p{font-size:12px;line-height:22px;margin-bottom:15px}} @font-face{font-family:Raleway;font-style:normal;font-weight:700;src:local('Raleway Bold'),local('Raleway-Bold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwJYtWqZPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:800;src:local('Raleway ExtraBold'),local('Raleway-ExtraBold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwIouWqZPBQ.ttf) format('truetype')}@font-face{font-family:Roboto;font-style:normal;font-weight:900;src:local('Roboto Black'),local('Roboto-Black'),url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfBBc9.ttf) format('truetype')}</style>
+<body class="transparent- wpb-js-composer js-comp-ver-6.1 vc_responsive cornerstone-v3_5_4">
+<header class="header-section-2 houzez-header-main houzez-user-logout" id="header-section">
+<div class="header-top">
+<div class="logo logo-desktop">
+<a href="#">
+<h2>
+{{ keyword }}
+</h2>
+</a>
+</div>
+</div>
+<div class="header-bottom" data-sticky="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-12 col-xs-12">
+<div class="header-nav">
+<nav class="navi main-nav">
+<ul class="" id="main-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-613" id="menu-item-613"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-614" id="menu-item-614"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-645" id="menu-item-645"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-827" id="menu-item-827"><a href="#">Contact Us</a></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="" id="section-body">
+<div class="container">
+<div class="compare-panel" id="compare-controller">
+<div id="compare-properties-basket">
+</div>
+</div>
+{{ text }}
+ </div> 
+</div> 
+<footer id="footer-section">
+<div class="footer footer-v2">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-6 col-xs-12"><div class="footer-widget widget-about" id="houzez_about_widget-1"><div class="widget-top"><h3 class="widget-title" style="color:#FFF">Related</h3></div>
+<div class="widget-body" style="color:#FFF">
+{{ links }}
+</div>
+</div></div></div>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-3">
+<div class="footer-col">
+<p>{{ keyword }} 2021</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:2787:"The announcement from the CDC on Thursday is causing some confusion as … Republican Gov. Ohio Medicaid COVID-19 Resources Use this webpage to find the resources, guidance, and information you need about Ohio Medicaid coverage during the COVID-19 pandemic. 10/20/20 - The Ohio Department of Health and the Governor’s Pandemic Response and Recovery Leadership Team invites prescribers to participate in a critical webinar on the Ohio COVID-19 Vaccine Program. Coronavirus/COVID-19 Resources and Quick Facts 11:03 AM, Apr 13, 2020 Senior Reporter Larry Seward is focusing his reporting on the COVID … COVID-19 Testing The state of Ohio has partnered with MAKO Medical to provide supported testing services for the state’s adult day service (ADS) and senior center facilities.  If you have tested positive for COVID-19 Contact OHIO COVID Operations. Mike DeWine made that announcement Wednesday, saying that … To file a complaint about a scam or a business acting badly, visit www.OhioProtects.org. Coronavirus Do you follow Ohio's guidelines or the CDC's when it comes to masking? Call 1-833-4-ASK-ODH (1-833-427-5634), or visit coronavirus.ohio.gov. If you are experiencing acute symptoms such as shortness of breath, dizziness, decreased awareness, difficulty staying awake, or bluish lips or face, call 911. The call center will be open 7 days a week from 9:00 a.m. to 8:00 p.m. and can be reached at 1-833-4-ASK-ODH (1-833-427-5634) The state of Ohio is lifting all COVID-19 health orders, effective June 2.Ohio Gov. Through this program, ADS and senior center facilities will receive support with testing including: training, access to test kits, lab capacity, and testing. For guidance and information beyond what is provided on this webpage, visit coronavirus.ohio.gov. The Attorney General’s Office started receiving COVID-19-related complaints from Ohio residents in March 2020 and, in all, has fielded more than 3,560. If you are experiencing COVID-19 symptoms, but they are NOT acute as described above, call OHIO COVID Operations to report your positive status: 1-740-566-8445. Ohio COVID-19 Vaccination Program For specific questions about COVID-19 and additional information and resources, DODD urges you to use the Ohio Department of Health’s call center. Ohio is set to lift most of its coronavirus restrictions in less than a month, the Cincinnati Enquirer reports. Resources for Local Health Districts and Providers - COVID-19 The Ohio Department of Health (ODH), in coordination with the Centers for Disease Control and Prevention (CDC), is closely monitoring coronavirus disease 2019, first identified in Wuhan, Hubei Province, China. The Ohio Department of Health opened a call center to answer questions from the public regarding coronavirus (COVID-19). ";s:7:"keyword";s:21:"ohio covid guidelines";s:5:"links";s:695:"<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/attack-on-titan-season-2-episode-29-soldier">Attack On Titan Season 2 Episode 29 Soldier</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/canberra-region-map">Canberra Region Map</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/flashback-in-tagalog">Flashback In Tagalog</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/krack-movie-collection-worldwide">Krack Movie Collection Worldwide</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/past%C3%A9is-de-bacalhau-receita-portuguesa">Pastéis De Bacalhau Receita Portuguesa</a>,
+";s:7:"expired";i:-1;}

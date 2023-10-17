@@ -1,0 +1,85 @@
+a:5:{s:8:"template";s:7658:"<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8";.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal} html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0} html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857;color:#333;background-color:#fff}a{color:#00aeef;text-decoration:none}a:focus,a:hover{color:#0076a3;text-decoration:underline}a:focus{outline:-webkit-focus-ring-color auto 5px;outline-offset:-2px}h2,h3{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h2,h3{margin-top:20px;margin-bottom:10px}h2{font-size:30px}h3{font-size:24px}p{margin:0 0 10px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container:after,.container:before{content:" ";display:table}.container:after{clear:both}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.container-fluid{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container-fluid:after,.container-fluid:before{content:" ";display:table}.container-fluid:after{clear:both}.row{margin-left:-15px;margin-right:-15px}.row:after,.row:before{content:" ";display:table}.row:after{clear:both}.col-md-3,.col-sm-12,.col-sm-3,.col-sm-6,.col-xs-12{position:relative;min-height:1px;padding-left:15px;padding-right:15px}.col-xs-12{float:left}.col-xs-12{width:100%}@media (min-width:768px){.col-sm-12,.col-sm-3,.col-sm-6{float:left}.col-sm-3{width:25%}.col-sm-6{width:50%}.col-sm-12{width:100%}}@media (min-width:992px){.col-md-3{float:left}.col-md-3{width:25%}}@-ms-viewport{width:device-width} #footer-section,.footer-bottom,.header-bottom,.header-top{width:100%}.compare-panel{height:100%}#section-body,.header-section-2,.navi>ul>li{position:relative}.compare-panel{position:fixed}.navi a{display:inline-block}.header-top{display:table}.header-section-2 .logo{display:table-cell}.footer-bottom p,.footer-widget .widget-title,.navi>ul{margin:0}.container,ul{padding:0}.header-bottom .header-nav,.logo,.navi>ul>li{float:left}.header-section-2 .logo{float:none}.header-section-2 .logo{vertical-align:middle!important}.compare-panel{right:0}.compare-panel{top:0}.navi>ul:after,.navi>ul:before{content:" ";display:table}.navi>ul:after{clear:both}a{-webkit-transition:.3s;transition:.3s}.compare-panel{-webkit-transition:all .9s cubic-bezier(.19,1,.22,1) 0s;transition:all .9s cubic-bezier(.19,1,.22,1) 0s}@media (max-width:768px){.container{padding-right:15px;padding-left:15px}}@media (max-width:767px){.container{width:480px}}@media (max-width:481px){.container{width:100%}}body{text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;padding-right:0!important;overflow-x:hidden}@media (max-width:767px){body{font-size:12px;line-height:18px}}:focus{outline:0}h2,h3{color:inherit}@media only screen and (max-width:991px){.header-bottom{display:none}}.header-section-2{z-index:11}.header-section-2 .logo{padding-left:20px}.header-section-2 .header-top{min-height:70px}@media (max-width:991px){.header-section-2 .header-top{padding:10px 15px;height:45px;min-height:0}}.header-section-2 .navi>ul>li>a{padding:0 15px;line-height:46px}.navi li,.navi ul{list-style:none}.navi a{padding:15px;-webkit-user-select:none}.navi>ul>li{overflow:hidden}#section-body{padding-bottom:40px}.compare-panel{z-index:1000;width:240px;background-color:#fff;box-shadow:0 2px 4px 0 rgba(0,0,0,.2);-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}.widget-top{margin-bottom:17px}.widget-body{font-size:14px}.footer-widget{margin-bottom:30px}@media (min-width:768px) and (max-width:991px){.footer-widget{margin-bottom:30px}}@media (max-width:767px){.footer-widget{margin-bottom:30px}}.footer-widget .widget-title{font-size:18px;line-height:24px}.footer{margin-bottom:-30px;padding:100px 0 70px;background-color:#363636}@media (max-width:767px){.footer{padding:45px 0 35px}}.footer-bottom{padding:30px 0 25px;font-size:14px}@media (max-width:767px){.footer-bottom{padding:15px 0}}@media (max-width:767px){.footer-bottom div[class*=col-]{margin-bottom:15px;text-align:center}.footer-bottom div[class*=col-]:last-child{margin:0}}p{margin:0 0 20px 0}h2{font-size:20px;line-height:24px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h2{font-size:16px;line-height:22px;margin-bottom:15px}}h3{font-size:18px;line-height:22px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h3{font-size:14px;line-height:18px;margin-bottom:15px}}@media (max-width:767px){p{font-size:12px;line-height:22px;margin-bottom:15px}} @font-face{font-family:Raleway;font-style:normal;font-weight:700;src:local('Raleway Bold'),local('Raleway-Bold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwJYtWqZPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:800;src:local('Raleway ExtraBold'),local('Raleway-ExtraBold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwIouWqZPBQ.ttf) format('truetype')}@font-face{font-family:Roboto;font-style:normal;font-weight:900;src:local('Roboto Black'),local('Roboto-Black'),url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfBBc9.ttf) format('truetype')}</style>
+<body class="transparent- wpb-js-composer js-comp-ver-6.1 vc_responsive cornerstone-v3_5_4">
+<header class="header-section-2 houzez-header-main houzez-user-logout" id="header-section">
+<div class="header-top">
+<div class="logo logo-desktop">
+<a href="#">
+<h2>
+{{ keyword }}
+</h2>
+</a>
+</div>
+</div>
+<div class="header-bottom" data-sticky="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-12 col-xs-12">
+<div class="header-nav">
+<nav class="navi main-nav">
+<ul class="" id="main-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-613" id="menu-item-613"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-614" id="menu-item-614"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-645" id="menu-item-645"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-827" id="menu-item-827"><a href="#">Contact Us</a></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="" id="section-body">
+<div class="container">
+<div class="compare-panel" id="compare-controller">
+<div id="compare-properties-basket">
+</div>
+</div>
+{{ text }}
+ </div> 
+</div> 
+<footer id="footer-section">
+<div class="footer footer-v2">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-6 col-xs-12"><div class="footer-widget widget-about" id="houzez_about_widget-1"><div class="widget-top"><h3 class="widget-title" style="color:#FFF">Related</h3></div>
+<div class="widget-body" style="color:#FFF">
+{{ links }}
+</div>
+</div></div></div>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-3">
+<div class="footer-col">
+<p>{{ keyword }} 2021</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:3583:"I did a lot of animation for this show so I’m going to release these through several posts each week, starting with this … And Wan knows what he's talking about, too—he's the animation director for Netflix's Castlevania, and was also an animator on Boruto. Castlevania looked pretty dang cool when it hit Netflix last month. So, this is an interview I did last October at OtakuPt with João do Lago, a Portuguese animator who worked on Revue Starlight, Castlevania 2, and more recently Conception where he debuted as an animation director. Powerhouse Animation Studios, Inc. is an Austin, Texas based animation studio founded in April 2001 with a subsidiary called Powerhaus Animation LLC, established in summer of 2014. If that name sounds familiar, it's because he has drawn fantastic cuts on shows like Castlevania, Boruto and The Owl House. I can’t make anything that crazy but I had fun making a little something. Castlevania is an American adult animated streaming television series on Netflix produced by Frederator Studios.Based on the Japanese video game series of the same name by Konami, the first two seasons adapt the 1989 entry Castlevania III: Dracula's Curse and follow Trevor Belmont, Alucard and Sypha Belnades as they defend the nation of Wallachia from Dracula and his minions.  Oct 13, 2017 - I finally got clearance to show my rough animation from Castlevania! Studio Grackle was founded by animator Spencer Wan. "I think the frame rate must’ve changed from 23.97fps to 24fps when Korra switched to digital release, but the 24 frame rate was applied broadly … Nov 3, 2018 - “My rough animation for Castlevania Season 2, Episode 6 (1/2) https://t.co/7r5ktR1gfY” His skill is well-known and respected, hence why Supergiant's Art Director, Jen Zee, contacted Spencer Wan via Twitter to create the trailer for Hades. Samuel Deats is the Director of Netflix's Castlevania animated series; an animator, character designer, and storyboard artist working at Powerhouse Animation in Austin, TX. Facebook Twitter Instagram Vimeo ... #castlevania trevor #trevor belmont #alucard tepes #alucard #anim #gif #animation #animate #animated #2d animation #2d animator #flash animation #flash animator ... My favourite part of Castlevania are the sweet fight scenes. Its story is originally based on the events from Castlevania III: Dracula's Curse and unites some of its aspects with elements from other games, such as Symphony of the Night and Curse of Darkness. In this interview, João talked about his journey to become an animator, since his formation to his debut on Revue Starlight (effectively on Castlevania 2). Castlevania is a horror action-adventure animated series set in a dark fantasy Medieval world loosely based on the video game series of the same name, released on Netflix worldwide. Gallery. 2018 Castlevania (Animator -Netflix-Power House Animation) Nahuel y el Libro Mágico (Animator - Movie - Carburadores) 2017 Mark Steyn opening (Animator) - Frickerlab Mini Beat Power Rockers (Storyboard Artist – Discovery Kids ) 2016 AGENT OF MAYHEM (Cinematic animator Power House Animation studio.) ... Be sure to give @SpencerWan a follow on Twitter… As the former animation director on Netflix’s Castlevania, a ... posted to Twitter by anime distributor (and more recently, producer) Crunchyroll. The Legend of Korra recently started streaming on Netflix, and a veteran animator has noticed a glaring flaw.. Spencer Wan, who serves as the animation director on Netflix's Castlevania, pointed out how the series was in the wrong frame rate. ";s:7:"keyword";s:28:"castlevania animator twitter";s:5:"links";s:1948:"<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/dr-saravana-kumar">Dr Saravana Kumar</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/yaad-piya-ki-aaye">Yaad Piya Ki Aaye</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/clarice-lispector-frases">Clarice Lispector Frases</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/spencer-meaning-in-marathi">Spencer Meaning In Marathi</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/here-maps-api-tutorial">Here Maps Api Tutorial</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/queen-the-world-we-created-live">Queen The World We Created Live</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/queen-the-world-we-created-live">Queen The World We Created Live</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/is-globalgiving-legit-reddit">Is Globalgiving Legit Reddit</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/haan-tu-hai-chords">Haan Tu Hai Chords</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/bring-down-the-sky">Bring Down The Sky</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/vasool-raja-mbbs-full-movie-tamilyogi">Vasool Raja Mbbs Full Movie Tamilyogi</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/the-mannsfield-12">The Mannsfield 12</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/how-to-respond-to-another-day-another-dollar">How To Respond To Another Day Another Dollar</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/composite-profile-geography-definition">Composite Profile Geography Definition</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/tu-laung-main-elaachi">Tu Laung Main Elaachi</a>,
+";s:7:"expired";i:-1;}

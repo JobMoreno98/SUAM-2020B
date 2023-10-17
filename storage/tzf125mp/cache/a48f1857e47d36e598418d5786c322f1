@@ -1,0 +1,83 @@
+a:5:{s:8:"template";s:7658:"<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8";.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal} html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0} html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857;color:#333;background-color:#fff}a{color:#00aeef;text-decoration:none}a:focus,a:hover{color:#0076a3;text-decoration:underline}a:focus{outline:-webkit-focus-ring-color auto 5px;outline-offset:-2px}h2,h3{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h2,h3{margin-top:20px;margin-bottom:10px}h2{font-size:30px}h3{font-size:24px}p{margin:0 0 10px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container:after,.container:before{content:" ";display:table}.container:after{clear:both}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.container-fluid{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container-fluid:after,.container-fluid:before{content:" ";display:table}.container-fluid:after{clear:both}.row{margin-left:-15px;margin-right:-15px}.row:after,.row:before{content:" ";display:table}.row:after{clear:both}.col-md-3,.col-sm-12,.col-sm-3,.col-sm-6,.col-xs-12{position:relative;min-height:1px;padding-left:15px;padding-right:15px}.col-xs-12{float:left}.col-xs-12{width:100%}@media (min-width:768px){.col-sm-12,.col-sm-3,.col-sm-6{float:left}.col-sm-3{width:25%}.col-sm-6{width:50%}.col-sm-12{width:100%}}@media (min-width:992px){.col-md-3{float:left}.col-md-3{width:25%}}@-ms-viewport{width:device-width} #footer-section,.footer-bottom,.header-bottom,.header-top{width:100%}.compare-panel{height:100%}#section-body,.header-section-2,.navi>ul>li{position:relative}.compare-panel{position:fixed}.navi a{display:inline-block}.header-top{display:table}.header-section-2 .logo{display:table-cell}.footer-bottom p,.footer-widget .widget-title,.navi>ul{margin:0}.container,ul{padding:0}.header-bottom .header-nav,.logo,.navi>ul>li{float:left}.header-section-2 .logo{float:none}.header-section-2 .logo{vertical-align:middle!important}.compare-panel{right:0}.compare-panel{top:0}.navi>ul:after,.navi>ul:before{content:" ";display:table}.navi>ul:after{clear:both}a{-webkit-transition:.3s;transition:.3s}.compare-panel{-webkit-transition:all .9s cubic-bezier(.19,1,.22,1) 0s;transition:all .9s cubic-bezier(.19,1,.22,1) 0s}@media (max-width:768px){.container{padding-right:15px;padding-left:15px}}@media (max-width:767px){.container{width:480px}}@media (max-width:481px){.container{width:100%}}body{text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;padding-right:0!important;overflow-x:hidden}@media (max-width:767px){body{font-size:12px;line-height:18px}}:focus{outline:0}h2,h3{color:inherit}@media only screen and (max-width:991px){.header-bottom{display:none}}.header-section-2{z-index:11}.header-section-2 .logo{padding-left:20px}.header-section-2 .header-top{min-height:70px}@media (max-width:991px){.header-section-2 .header-top{padding:10px 15px;height:45px;min-height:0}}.header-section-2 .navi>ul>li>a{padding:0 15px;line-height:46px}.navi li,.navi ul{list-style:none}.navi a{padding:15px;-webkit-user-select:none}.navi>ul>li{overflow:hidden}#section-body{padding-bottom:40px}.compare-panel{z-index:1000;width:240px;background-color:#fff;box-shadow:0 2px 4px 0 rgba(0,0,0,.2);-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}.widget-top{margin-bottom:17px}.widget-body{font-size:14px}.footer-widget{margin-bottom:30px}@media (min-width:768px) and (max-width:991px){.footer-widget{margin-bottom:30px}}@media (max-width:767px){.footer-widget{margin-bottom:30px}}.footer-widget .widget-title{font-size:18px;line-height:24px}.footer{margin-bottom:-30px;padding:100px 0 70px;background-color:#363636}@media (max-width:767px){.footer{padding:45px 0 35px}}.footer-bottom{padding:30px 0 25px;font-size:14px}@media (max-width:767px){.footer-bottom{padding:15px 0}}@media (max-width:767px){.footer-bottom div[class*=col-]{margin-bottom:15px;text-align:center}.footer-bottom div[class*=col-]:last-child{margin:0}}p{margin:0 0 20px 0}h2{font-size:20px;line-height:24px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h2{font-size:16px;line-height:22px;margin-bottom:15px}}h3{font-size:18px;line-height:22px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h3{font-size:14px;line-height:18px;margin-bottom:15px}}@media (max-width:767px){p{font-size:12px;line-height:22px;margin-bottom:15px}} @font-face{font-family:Raleway;font-style:normal;font-weight:700;src:local('Raleway Bold'),local('Raleway-Bold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwJYtWqZPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:800;src:local('Raleway ExtraBold'),local('Raleway-ExtraBold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwIouWqZPBQ.ttf) format('truetype')}@font-face{font-family:Roboto;font-style:normal;font-weight:900;src:local('Roboto Black'),local('Roboto-Black'),url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfBBc9.ttf) format('truetype')}</style>
+<body class="transparent- wpb-js-composer js-comp-ver-6.1 vc_responsive cornerstone-v3_5_4">
+<header class="header-section-2 houzez-header-main houzez-user-logout" id="header-section">
+<div class="header-top">
+<div class="logo logo-desktop">
+<a href="#">
+<h2>
+{{ keyword }}
+</h2>
+</a>
+</div>
+</div>
+<div class="header-bottom" data-sticky="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-12 col-xs-12">
+<div class="header-nav">
+<nav class="navi main-nav">
+<ul class="" id="main-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-613" id="menu-item-613"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-614" id="menu-item-614"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-645" id="menu-item-645"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-827" id="menu-item-827"><a href="#">Contact Us</a></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="" id="section-body">
+<div class="container">
+<div class="compare-panel" id="compare-controller">
+<div id="compare-properties-basket">
+</div>
+</div>
+{{ text }}
+ </div> 
+</div> 
+<footer id="footer-section">
+<div class="footer footer-v2">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-6 col-xs-12"><div class="footer-widget widget-about" id="houzez_about_widget-1"><div class="widget-top"><h3 class="widget-title" style="color:#FFF">Related</h3></div>
+<div class="widget-body" style="color:#FFF">
+{{ links }}
+</div>
+</div></div></div>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-3">
+<div class="footer-col">
+<p>{{ keyword }} 2021</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:3917:"Translation of 'Deutschland' by Rammstein from German to Swedish Deutsch English Español Français Hungarian Italiano Nederlands Polski Português (Brasil) Română Svenska Türkçe Ελληνικά Български Русский Српски العربية فارسی 日本語 한국어 Rammstein is a Neue Deutsche Härte (New German Hardness) band from Berlin, Germany. Radio - Radio 3. The lyrics have been translated literally (and occasionally poetically) but cannot fully convey every nuance of meaning. It is the same as Ich KANN dir meine Liebe nicht geben, perhaps with some emphasis differences, but the sentence has the same meaning. Rammstein 1. Was Ich liebe - What I love 8. Comment and share your favourite lyrics.  Germany, Germany over all [Chorus] Germany - my heart in flames Want to love and condemn you Germany - your breath cold So young, and yet so old Germany - your love Is boon and bane Germany - my love I can't give you Germany! Watch official video, print or download text in PDF. German firestarters Rammstein just dropped their first new song in eight years, "Deutschland," and its history-spanning, big-budget music video, directed by Specter Berlin.True to form, the band have not shied from controversy with the release. The song became Rammstein's second No. Maybe the lyrics will give us a clue to what the song Deutschland is actually about. From what I can tell the "Deutschland, Deutschland über allen" is or could be a reference to the German Anthem used during the second world war (a still to this day but I think parts of it are omitted) where the line goes "Deutschland, Deutschland über alles" which means the same thing as what I have translated The band was formed in 1994 and consists of Till Lindemann (lead vocals), Richard Z. Kruspe (guitar and backing vocals), Paul H. Landers (guitar, backing vocals), Oliver "Ollie" Riedel (bass guitar), Christoph "Doom" Schneider (drums and electronic percussion) and Christian "Flake" Lorenz (keyboards). DEUTSCHLAND Lyrics: Du (Du hast, du hast, du hast, du hast) / Hast viel geweint (Geweint, geweint, geweint, geweint) / Im Geist getrennt (Getrennt, getrennt, getrennt, getrennt) / Im … [Bridge] You I We You You (Overwhelming, redundant) I (Supermen, weary) We (Who climbs high will fall deeply) Translation of 'Deutschland' by Rammstein from German to English (Version #4) 1. Sex - Sex 6. This is a list of all Rammstein songs with links to their lyrics with English translations. Deutschland - Germany 2. 1 single in Germany after "Pussy" in 2009.It was also a No. Rammstein Ein Mensch brennt Rammstein Fleischgeruch liegt in der Luft Rammstein ein Kind stirbt Rammstein die Sonne scheint Rammstein ein Flammenmeer Rammstein Blut gerinnt auf dem Asphalt Rammstein Mütter schreien Rammstein die Sonne scheint Rammstein ein Massengrab Rammstein kein Entrinnen Rammstein kein Vogel singt mehr Rammstein die Sonne scheint Rammstein A man is burning Rammstein … The footnotes should give you better idea of what is expressed the original text. "Deutschland" (German for "Germany") is a song by German Neue Deutsche Härte band Rammstein. Zeig dich - Show yourself 4. Puppe - Puppet 7. Rammstein's lyrics are rarely simple and cannot be perfectly translated. Explore 1 meaning or write yours. Lemme try to explain why: In German, the verb usually goes in the second position, so Meine Liebe KANN ich dir nicht geben is gramatically correct. Even before its premiere, the video received criticism from government officials and Jewish leaders in the group's homeland, who called the 30 … Diamant - Diamond […] Germany! Rammstein. Released as the lead single from their untitled seventh studio album on 28 March 2019, it was their first new music since the song "Mein Land" in 2011.. Original lyrics of Deutschland (English Translation) song by Rammstein. Ausländer - Foreigner 5. Find more of Rammstein lyrics. ";s:7:"keyword";s:49:"deutschland rammstein lyrics + english and german";s:5:"links";s:1708:"<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/hollow-knight-bridge">Hollow Knight Bridge</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/o-bewafa-tune-kya-kiya">O Bewafa Tune Kya Kiya</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/crash-tag-team-racing">Crash Tag Team Racing</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/disenchantment-meaning-in-bengali">Disenchantment Meaning In Bengali</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/bite-the-bullet">Bite The Bullet</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/mahima-makwana-hashtag-instagram">Mahima Makwana Hashtag Instagram</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/keenen-ivory-wayans">Keenen Ivory Wayans</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/%2B-18moreromantic-restaurantscorso-98%2C-halcyon%2C-and-more">+ 18moreromantic Restaurantscorso 98, Halcyon, And More</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/neha-chauhan-instagram">Neha Chauhan Instagram</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/faro-technologies-careers">Faro Technologies Careers</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/did-bobby-leave-ikon">Did Bobby Leave Ikon</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/allah-hafiz-in-arabic-translation">Allah Hafiz In Arabic Translation</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/getty-iconography-authority">Getty Iconography Authority</a>,
+";s:7:"expired";i:-1;}

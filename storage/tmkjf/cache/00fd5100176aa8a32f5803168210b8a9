@@ -1,0 +1,80 @@
+a:5:{s:8:"template";s:7658:"<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8";.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal} html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0} html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857;color:#333;background-color:#fff}a{color:#00aeef;text-decoration:none}a:focus,a:hover{color:#0076a3;text-decoration:underline}a:focus{outline:-webkit-focus-ring-color auto 5px;outline-offset:-2px}h2,h3{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h2,h3{margin-top:20px;margin-bottom:10px}h2{font-size:30px}h3{font-size:24px}p{margin:0 0 10px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container:after,.container:before{content:" ";display:table}.container:after{clear:both}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.container-fluid{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container-fluid:after,.container-fluid:before{content:" ";display:table}.container-fluid:after{clear:both}.row{margin-left:-15px;margin-right:-15px}.row:after,.row:before{content:" ";display:table}.row:after{clear:both}.col-md-3,.col-sm-12,.col-sm-3,.col-sm-6,.col-xs-12{position:relative;min-height:1px;padding-left:15px;padding-right:15px}.col-xs-12{float:left}.col-xs-12{width:100%}@media (min-width:768px){.col-sm-12,.col-sm-3,.col-sm-6{float:left}.col-sm-3{width:25%}.col-sm-6{width:50%}.col-sm-12{width:100%}}@media (min-width:992px){.col-md-3{float:left}.col-md-3{width:25%}}@-ms-viewport{width:device-width} #footer-section,.footer-bottom,.header-bottom,.header-top{width:100%}.compare-panel{height:100%}#section-body,.header-section-2,.navi>ul>li{position:relative}.compare-panel{position:fixed}.navi a{display:inline-block}.header-top{display:table}.header-section-2 .logo{display:table-cell}.footer-bottom p,.footer-widget .widget-title,.navi>ul{margin:0}.container,ul{padding:0}.header-bottom .header-nav,.logo,.navi>ul>li{float:left}.header-section-2 .logo{float:none}.header-section-2 .logo{vertical-align:middle!important}.compare-panel{right:0}.compare-panel{top:0}.navi>ul:after,.navi>ul:before{content:" ";display:table}.navi>ul:after{clear:both}a{-webkit-transition:.3s;transition:.3s}.compare-panel{-webkit-transition:all .9s cubic-bezier(.19,1,.22,1) 0s;transition:all .9s cubic-bezier(.19,1,.22,1) 0s}@media (max-width:768px){.container{padding-right:15px;padding-left:15px}}@media (max-width:767px){.container{width:480px}}@media (max-width:481px){.container{width:100%}}body{text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;padding-right:0!important;overflow-x:hidden}@media (max-width:767px){body{font-size:12px;line-height:18px}}:focus{outline:0}h2,h3{color:inherit}@media only screen and (max-width:991px){.header-bottom{display:none}}.header-section-2{z-index:11}.header-section-2 .logo{padding-left:20px}.header-section-2 .header-top{min-height:70px}@media (max-width:991px){.header-section-2 .header-top{padding:10px 15px;height:45px;min-height:0}}.header-section-2 .navi>ul>li>a{padding:0 15px;line-height:46px}.navi li,.navi ul{list-style:none}.navi a{padding:15px;-webkit-user-select:none}.navi>ul>li{overflow:hidden}#section-body{padding-bottom:40px}.compare-panel{z-index:1000;width:240px;background-color:#fff;box-shadow:0 2px 4px 0 rgba(0,0,0,.2);-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}.widget-top{margin-bottom:17px}.widget-body{font-size:14px}.footer-widget{margin-bottom:30px}@media (min-width:768px) and (max-width:991px){.footer-widget{margin-bottom:30px}}@media (max-width:767px){.footer-widget{margin-bottom:30px}}.footer-widget .widget-title{font-size:18px;line-height:24px}.footer{margin-bottom:-30px;padding:100px 0 70px;background-color:#363636}@media (max-width:767px){.footer{padding:45px 0 35px}}.footer-bottom{padding:30px 0 25px;font-size:14px}@media (max-width:767px){.footer-bottom{padding:15px 0}}@media (max-width:767px){.footer-bottom div[class*=col-]{margin-bottom:15px;text-align:center}.footer-bottom div[class*=col-]:last-child{margin:0}}p{margin:0 0 20px 0}h2{font-size:20px;line-height:24px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h2{font-size:16px;line-height:22px;margin-bottom:15px}}h3{font-size:18px;line-height:22px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h3{font-size:14px;line-height:18px;margin-bottom:15px}}@media (max-width:767px){p{font-size:12px;line-height:22px;margin-bottom:15px}} @font-face{font-family:Raleway;font-style:normal;font-weight:700;src:local('Raleway Bold'),local('Raleway-Bold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwJYtWqZPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:800;src:local('Raleway ExtraBold'),local('Raleway-ExtraBold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwIouWqZPBQ.ttf) format('truetype')}@font-face{font-family:Roboto;font-style:normal;font-weight:900;src:local('Roboto Black'),local('Roboto-Black'),url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfBBc9.ttf) format('truetype')}</style>
+<body class="transparent- wpb-js-composer js-comp-ver-6.1 vc_responsive cornerstone-v3_5_4">
+<header class="header-section-2 houzez-header-main houzez-user-logout" id="header-section">
+<div class="header-top">
+<div class="logo logo-desktop">
+<a href="#">
+<h2>
+{{ keyword }}
+</h2>
+</a>
+</div>
+</div>
+<div class="header-bottom" data-sticky="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-12 col-xs-12">
+<div class="header-nav">
+<nav class="navi main-nav">
+<ul class="" id="main-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-613" id="menu-item-613"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-614" id="menu-item-614"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-645" id="menu-item-645"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-827" id="menu-item-827"><a href="#">Contact Us</a></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="" id="section-body">
+<div class="container">
+<div class="compare-panel" id="compare-controller">
+<div id="compare-properties-basket">
+</div>
+</div>
+{{ text }}
+ </div> 
+</div> 
+<footer id="footer-section">
+<div class="footer footer-v2">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-6 col-xs-12"><div class="footer-widget widget-about" id="houzez_about_widget-1"><div class="widget-top"><h3 class="widget-title" style="color:#FFF">Related</h3></div>
+<div class="widget-body" style="color:#FFF">
+{{ links }}
+</div>
+</div></div></div>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-3">
+<div class="footer-col">
+<p>{{ keyword }} 2021</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:3282:"So, in its own way, the freeze response to trauma is—if only at the time—as adaptive as the fight-flight response. Freeze! Organization Students move randomly in the space.  GoNoodle. All the files saved on D: drive is … If you move a freezer upright, you will prevent the oil from entering into the cooling tubes. This is "Brain Breaks - Action Songs for Children - Move and Freeze - Kids Songs by The Learning Station" by Teachersteam on Vimeo, the home for high quality… by ¡Vamos! Get moving with 300+ dance videos, mindfulness activities, and more engaging videos for kids! Move and Freeze on Signals. Keep on moving in and out till we say free. Come on, move and freeze. K-2. Fitness Challenges. When the music stops, each player must freeze immediately and hold that position until the music begins again. Cooperation. Case 1. Symptoms of the freeze response include: feeling stuck in some part of the body, feeling cold or numb, a sense of stiffness or inability to move, holding breath, sense of dread, and even dissociation. If they don’t freeze or if they start moving before the music begins again, they will be “out” and will have to sit down. X4. Check out this PTSD recovery video for some tips on how to overcome the freeze response. You or the students can decide on the movements for traveling in the space and the type of shapes. For a small child, the developmental capacity to protect is markedly limited. Equipment: Whistle. Now keep on with your moving but switch hands on your knees. 1. X4. Spacing. The primary objective is to teach students the importance of moving under control (without bumping others or falling down) and quickly freezing. Your knees move in and out. After a couple rounds, consider adding an extra challenge. View Details. Ways to Overcome the Freeze Response. When the music stops and kids are frozen, offer them an incentive to move, similar to the cookies in the pre-discussion. Warm up and FREEZE as you dance along with Angel, Adam and Colin! Put one hand across your shoulder, one hand across your back. Continue On The Web. If you wish to move a freezer laying down or to its side, if it is an older model, more than 10 years old, you will have to allow at least 24 hours before the oil runs back into the compressor. Your hands stay tight. Introductory. When the music stops, they freeze in a still shape. Personal Responsibilty. To keep an area of an Excel worksheet visible while you scroll to another area of the worksheet, you can either freeze specific rows or columns in one area to lock them in place or create multiple worksheet areas that can scroll separately from each other by splitting rows and columns. Put your right hand on your left knee, your left hand on your right. Keep Moving With GoNoodle. I was trying to move my files saved in D: drive to E: drive. Come on, move and freeze. Windows 10 freezes while copying files from drive D: to E: "Windows 10 keeps freezing and everything stops responding while copying files from D: to E:. GoNoodle is free for teachers, parents, and kids! Since this is an aerobic game, it is better not for players to get “out.” If a player does not freeze immediately, s/he does 10 jumping jacks during the start of the next round and then rejoins the dance. ";s:7:"keyword";s:15:"move and freeze";s:5:"links";s:1222:"<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/murdered%3A-soul-suspect">Murdered: Soul Suspect</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/a%27dam-tower-hotel">A'dam Tower Hotel</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/raj-tabassum-daughter">Raj Tabassum Daughter</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/jean-kirstein-fanart">Jean Kirstein Fanart</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/the-magic-school-bus">The Magic School Bus</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/wedding-talwar-price">Wedding Talwar Price</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/start-off-making-your-bed-meaning">Start Off Making Your Bed Meaning</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/when-did-krispy-kreme-open-in-melbourne">When Did Krispy Kreme Open In Melbourne</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/persistence-of-time">Persistence Of Time</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/music-city-bowl-history">Music City Bowl History</a>,
+";s:7:"expired";i:-1;}

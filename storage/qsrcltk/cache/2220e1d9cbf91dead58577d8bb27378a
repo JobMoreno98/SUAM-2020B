@@ -1,0 +1,79 @@
+a:5:{s:8:"template";s:7658:"<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8";.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal} html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0} html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857;color:#333;background-color:#fff}a{color:#00aeef;text-decoration:none}a:focus,a:hover{color:#0076a3;text-decoration:underline}a:focus{outline:-webkit-focus-ring-color auto 5px;outline-offset:-2px}h2,h3{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h2,h3{margin-top:20px;margin-bottom:10px}h2{font-size:30px}h3{font-size:24px}p{margin:0 0 10px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container:after,.container:before{content:" ";display:table}.container:after{clear:both}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.container-fluid{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container-fluid:after,.container-fluid:before{content:" ";display:table}.container-fluid:after{clear:both}.row{margin-left:-15px;margin-right:-15px}.row:after,.row:before{content:" ";display:table}.row:after{clear:both}.col-md-3,.col-sm-12,.col-sm-3,.col-sm-6,.col-xs-12{position:relative;min-height:1px;padding-left:15px;padding-right:15px}.col-xs-12{float:left}.col-xs-12{width:100%}@media (min-width:768px){.col-sm-12,.col-sm-3,.col-sm-6{float:left}.col-sm-3{width:25%}.col-sm-6{width:50%}.col-sm-12{width:100%}}@media (min-width:992px){.col-md-3{float:left}.col-md-3{width:25%}}@-ms-viewport{width:device-width} #footer-section,.footer-bottom,.header-bottom,.header-top{width:100%}.compare-panel{height:100%}#section-body,.header-section-2,.navi>ul>li{position:relative}.compare-panel{position:fixed}.navi a{display:inline-block}.header-top{display:table}.header-section-2 .logo{display:table-cell}.footer-bottom p,.footer-widget .widget-title,.navi>ul{margin:0}.container,ul{padding:0}.header-bottom .header-nav,.logo,.navi>ul>li{float:left}.header-section-2 .logo{float:none}.header-section-2 .logo{vertical-align:middle!important}.compare-panel{right:0}.compare-panel{top:0}.navi>ul:after,.navi>ul:before{content:" ";display:table}.navi>ul:after{clear:both}a{-webkit-transition:.3s;transition:.3s}.compare-panel{-webkit-transition:all .9s cubic-bezier(.19,1,.22,1) 0s;transition:all .9s cubic-bezier(.19,1,.22,1) 0s}@media (max-width:768px){.container{padding-right:15px;padding-left:15px}}@media (max-width:767px){.container{width:480px}}@media (max-width:481px){.container{width:100%}}body{text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;padding-right:0!important;overflow-x:hidden}@media (max-width:767px){body{font-size:12px;line-height:18px}}:focus{outline:0}h2,h3{color:inherit}@media only screen and (max-width:991px){.header-bottom{display:none}}.header-section-2{z-index:11}.header-section-2 .logo{padding-left:20px}.header-section-2 .header-top{min-height:70px}@media (max-width:991px){.header-section-2 .header-top{padding:10px 15px;height:45px;min-height:0}}.header-section-2 .navi>ul>li>a{padding:0 15px;line-height:46px}.navi li,.navi ul{list-style:none}.navi a{padding:15px;-webkit-user-select:none}.navi>ul>li{overflow:hidden}#section-body{padding-bottom:40px}.compare-panel{z-index:1000;width:240px;background-color:#fff;box-shadow:0 2px 4px 0 rgba(0,0,0,.2);-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}.widget-top{margin-bottom:17px}.widget-body{font-size:14px}.footer-widget{margin-bottom:30px}@media (min-width:768px) and (max-width:991px){.footer-widget{margin-bottom:30px}}@media (max-width:767px){.footer-widget{margin-bottom:30px}}.footer-widget .widget-title{font-size:18px;line-height:24px}.footer{margin-bottom:-30px;padding:100px 0 70px;background-color:#363636}@media (max-width:767px){.footer{padding:45px 0 35px}}.footer-bottom{padding:30px 0 25px;font-size:14px}@media (max-width:767px){.footer-bottom{padding:15px 0}}@media (max-width:767px){.footer-bottom div[class*=col-]{margin-bottom:15px;text-align:center}.footer-bottom div[class*=col-]:last-child{margin:0}}p{margin:0 0 20px 0}h2{font-size:20px;line-height:24px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h2{font-size:16px;line-height:22px;margin-bottom:15px}}h3{font-size:18px;line-height:22px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h3{font-size:14px;line-height:18px;margin-bottom:15px}}@media (max-width:767px){p{font-size:12px;line-height:22px;margin-bottom:15px}} @font-face{font-family:Raleway;font-style:normal;font-weight:700;src:local('Raleway Bold'),local('Raleway-Bold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwJYtWqZPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:800;src:local('Raleway ExtraBold'),local('Raleway-ExtraBold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwIouWqZPBQ.ttf) format('truetype')}@font-face{font-family:Roboto;font-style:normal;font-weight:900;src:local('Roboto Black'),local('Roboto-Black'),url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfBBc9.ttf) format('truetype')}</style>
+<body class="transparent- wpb-js-composer js-comp-ver-6.1 vc_responsive cornerstone-v3_5_4">
+<header class="header-section-2 houzez-header-main houzez-user-logout" id="header-section">
+<div class="header-top">
+<div class="logo logo-desktop">
+<a href="#">
+<h2>
+{{ keyword }}
+</h2>
+</a>
+</div>
+</div>
+<div class="header-bottom" data-sticky="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-12 col-xs-12">
+<div class="header-nav">
+<nav class="navi main-nav">
+<ul class="" id="main-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-613" id="menu-item-613"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-614" id="menu-item-614"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-645" id="menu-item-645"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-827" id="menu-item-827"><a href="#">Contact Us</a></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="" id="section-body">
+<div class="container">
+<div class="compare-panel" id="compare-controller">
+<div id="compare-properties-basket">
+</div>
+</div>
+{{ text }}
+ </div> 
+</div> 
+<footer id="footer-section">
+<div class="footer footer-v2">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-6 col-xs-12"><div class="footer-widget widget-about" id="houzez_about_widget-1"><div class="widget-top"><h3 class="widget-title" style="color:#FFF">Related</h3></div>
+<div class="widget-body" style="color:#FFF">
+{{ links }}
+</div>
+</div></div></div>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-3">
+<div class="footer-col">
+<p>{{ keyword }} 2021</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:2812:"Title: 如果，爱 / Ru guo, ai English title: Love Won't Wait Also known as: Perhaps Love Genre: Family, romance, melodrama Episodes: 47 Broadcast Network: Hunan TV, Mango TV, PPTV, Youku Broadcast Period: 2018-May-27 to 2018-Jun-23 Air Time: Monday to Sunday 19:30 Related TV Series: Happy Home (MBC, 2016) Synopsis. Love Won’t Wait 如果，爱 premiered on May 27, 2018 and the episode begins with Wan Jia Ling (played by Cecilia Cheung) getting ready and heading off in a chauffeured car. Formats: Print / eBook . We next find them stepping out of a jewelry convention where Jia Ling and her mother-in-law, Zhang Yi Di (played by Tian Min), are flocked by reporters. Use the HTML below. Want to share IMDb's rating on your own site? Details. Song information for Love Won't Wait - Bobby Caldwell on AllMusic AllMusic. All positive reviews › Stella Potts. What You Won't Do for Love / Love Won't Wait, a Single by Bobby Caldwell. When Love Won't Wait: His quirkiest romantic novel yet. New Releases. Complete your Gary Barlow collection. HSS1; Vinyl Non-Standard Size).  See All Buying Options. 743214773529; CD). Top positive review. Genres: Pop. Love Won't Wait, a Single by Gary Barlow. Bobby Caldwell. Love Won't Wait — Lori Foster. Love Won’t Wait 如果,爱 is a 45-episode Chinese TV series starring Cecilia Cheung, Vanness Wu and Bie Thassapak Hsu.It is a project that is especially significant for the actress who hasn’t been in a drama in years because not only does the take … Pages: 336 . 4.0 out of 5 stars This Book is Hilarious. Genres: Smooth Soul, Blue-Eyed Soul. A story revolving around three women dealing with … Add to Wish List. Book Lists; Lori Foster; Love Won't Wait; Published: Jan-2014 . Released in 1978 on Clouds (catalog no. Released 28 April 1997 on RCA (catalog no. When Love Won't Wait book. Reviewed in the United States on May 8, 2019. View credits, reviews, tracks and shop for the 1978 Vinyl release of What You Won't Do For Love / Love Won't Wait on Discogs. Read 3 reviews from the world's largest community for readers. Share this Rating. Featured New Releases ... AllMusic Rating; 1978 : Bobby Caldwell. by Roger Bruner. Drama: Love Won't Wait Title: Love Won't Wait Chinese Title: 如果，爱 / Ru Guo Ai Broadcast Network: Hunan TV Broadcast Website: MGTV, Tencent, iQIYI, Youku Broadcast Period: May 27, 2018 - … Rating: Series: The Carlisles - 2. Discover releases, reviews, credits, songs, and more about Gary Barlow - Love Won't Wait at Discogs. ... Don't use this space to complain about the average rating, chart position, genre voting, others' reviews or ratings, or … Title: Gary Barlow: Love Won't Wait (Video 1997) 6.3 /10. How are ratings calculated? Write a review. Song information for Love Won't Wait - Bobby Caldwell on AllMusic. ";s:7:"keyword";s:22:"love won't wait rating";s:5:"links";s:1161:"<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/puli-in-english-word">Puli In English Word</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/the-cocktail-party">The Cocktail Party</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/eq2-velious-timeline">Eq2 Velious Timeline</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/prasa-recruitment-email-address">Prasa Recruitment Email Address</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/a-crack-in-the-line-summary">A Crack In The Line Summary</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/haque-meaning-in-english">Haque Meaning In English</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/how-to-get-back-money-lost-gambling">How To Get Back Money Lost Gambling</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/unsealed-kpop-albums-meaning">Unsealed Kpop Albums Meaning</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/cushman-and-wakefield-locations">Cushman And Wakefield Locations</a>,
+";s:7:"expired";i:-1;}

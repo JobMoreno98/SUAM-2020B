@@ -1,0 +1,78 @@
+a:5:{s:8:"template";s:7658:"<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8";.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal} html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0} html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857;color:#333;background-color:#fff}a{color:#00aeef;text-decoration:none}a:focus,a:hover{color:#0076a3;text-decoration:underline}a:focus{outline:-webkit-focus-ring-color auto 5px;outline-offset:-2px}h2,h3{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h2,h3{margin-top:20px;margin-bottom:10px}h2{font-size:30px}h3{font-size:24px}p{margin:0 0 10px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container:after,.container:before{content:" ";display:table}.container:after{clear:both}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.container-fluid{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container-fluid:after,.container-fluid:before{content:" ";display:table}.container-fluid:after{clear:both}.row{margin-left:-15px;margin-right:-15px}.row:after,.row:before{content:" ";display:table}.row:after{clear:both}.col-md-3,.col-sm-12,.col-sm-3,.col-sm-6,.col-xs-12{position:relative;min-height:1px;padding-left:15px;padding-right:15px}.col-xs-12{float:left}.col-xs-12{width:100%}@media (min-width:768px){.col-sm-12,.col-sm-3,.col-sm-6{float:left}.col-sm-3{width:25%}.col-sm-6{width:50%}.col-sm-12{width:100%}}@media (min-width:992px){.col-md-3{float:left}.col-md-3{width:25%}}@-ms-viewport{width:device-width} #footer-section,.footer-bottom,.header-bottom,.header-top{width:100%}.compare-panel{height:100%}#section-body,.header-section-2,.navi>ul>li{position:relative}.compare-panel{position:fixed}.navi a{display:inline-block}.header-top{display:table}.header-section-2 .logo{display:table-cell}.footer-bottom p,.footer-widget .widget-title,.navi>ul{margin:0}.container,ul{padding:0}.header-bottom .header-nav,.logo,.navi>ul>li{float:left}.header-section-2 .logo{float:none}.header-section-2 .logo{vertical-align:middle!important}.compare-panel{right:0}.compare-panel{top:0}.navi>ul:after,.navi>ul:before{content:" ";display:table}.navi>ul:after{clear:both}a{-webkit-transition:.3s;transition:.3s}.compare-panel{-webkit-transition:all .9s cubic-bezier(.19,1,.22,1) 0s;transition:all .9s cubic-bezier(.19,1,.22,1) 0s}@media (max-width:768px){.container{padding-right:15px;padding-left:15px}}@media (max-width:767px){.container{width:480px}}@media (max-width:481px){.container{width:100%}}body{text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;padding-right:0!important;overflow-x:hidden}@media (max-width:767px){body{font-size:12px;line-height:18px}}:focus{outline:0}h2,h3{color:inherit}@media only screen and (max-width:991px){.header-bottom{display:none}}.header-section-2{z-index:11}.header-section-2 .logo{padding-left:20px}.header-section-2 .header-top{min-height:70px}@media (max-width:991px){.header-section-2 .header-top{padding:10px 15px;height:45px;min-height:0}}.header-section-2 .navi>ul>li>a{padding:0 15px;line-height:46px}.navi li,.navi ul{list-style:none}.navi a{padding:15px;-webkit-user-select:none}.navi>ul>li{overflow:hidden}#section-body{padding-bottom:40px}.compare-panel{z-index:1000;width:240px;background-color:#fff;box-shadow:0 2px 4px 0 rgba(0,0,0,.2);-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}.widget-top{margin-bottom:17px}.widget-body{font-size:14px}.footer-widget{margin-bottom:30px}@media (min-width:768px) and (max-width:991px){.footer-widget{margin-bottom:30px}}@media (max-width:767px){.footer-widget{margin-bottom:30px}}.footer-widget .widget-title{font-size:18px;line-height:24px}.footer{margin-bottom:-30px;padding:100px 0 70px;background-color:#363636}@media (max-width:767px){.footer{padding:45px 0 35px}}.footer-bottom{padding:30px 0 25px;font-size:14px}@media (max-width:767px){.footer-bottom{padding:15px 0}}@media (max-width:767px){.footer-bottom div[class*=col-]{margin-bottom:15px;text-align:center}.footer-bottom div[class*=col-]:last-child{margin:0}}p{margin:0 0 20px 0}h2{font-size:20px;line-height:24px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h2{font-size:16px;line-height:22px;margin-bottom:15px}}h3{font-size:18px;line-height:22px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h3{font-size:14px;line-height:18px;margin-bottom:15px}}@media (max-width:767px){p{font-size:12px;line-height:22px;margin-bottom:15px}} @font-face{font-family:Raleway;font-style:normal;font-weight:700;src:local('Raleway Bold'),local('Raleway-Bold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwJYtWqZPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:800;src:local('Raleway ExtraBold'),local('Raleway-ExtraBold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwIouWqZPBQ.ttf) format('truetype')}@font-face{font-family:Roboto;font-style:normal;font-weight:900;src:local('Roboto Black'),local('Roboto-Black'),url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfBBc9.ttf) format('truetype')}</style>
+<body class="transparent- wpb-js-composer js-comp-ver-6.1 vc_responsive cornerstone-v3_5_4">
+<header class="header-section-2 houzez-header-main houzez-user-logout" id="header-section">
+<div class="header-top">
+<div class="logo logo-desktop">
+<a href="#">
+<h2>
+{{ keyword }}
+</h2>
+</a>
+</div>
+</div>
+<div class="header-bottom" data-sticky="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-12 col-xs-12">
+<div class="header-nav">
+<nav class="navi main-nav">
+<ul class="" id="main-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-613" id="menu-item-613"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-614" id="menu-item-614"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-645" id="menu-item-645"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-827" id="menu-item-827"><a href="#">Contact Us</a></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="" id="section-body">
+<div class="container">
+<div class="compare-panel" id="compare-controller">
+<div id="compare-properties-basket">
+</div>
+</div>
+{{ text }}
+ </div> 
+</div> 
+<footer id="footer-section">
+<div class="footer footer-v2">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-6 col-xs-12"><div class="footer-widget widget-about" id="houzez_about_widget-1"><div class="widget-top"><h3 class="widget-title" style="color:#FFF">Related</h3></div>
+<div class="widget-body" style="color:#FFF">
+{{ links }}
+</div>
+</div></div></div>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-3">
+<div class="footer-col">
+<p>{{ keyword }} 2021</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:3553:"Estimating average vocabulary size poses various difficulties and limitations due to the different definitions and methods employed such as what is the word, what is to know a word, what sample dictionaries were used, how tests were conducted, and so on. We use Simple English words and grammar here. The best Wikipedia experience on your Mobile device. Content in other languages is being developed at the Wikimedia Incubator; languages …  You may also get suggestions in the local language and not the language you start to type, or a mishmash of suggestions instead. Wikipedia turns 15 on Friday. The Simple English Wikipedia is for everyone! Spoken language is constantly changing, and different communities of language speakers coin new words, phrases, and expressions that get used within their groups. With the official Wikipedia app, you can search and explore 40+ million articles in 300+ languages, no matter where you are. This is the front page of the Simple English Wikipedia. The first non-English versions launched shortly after the Wikipedia’s founding in 2001, with offerings in six languages – German, Catalan, Swedish, French, Spanish and Russian. This page contains a list of all 321 languages for which official Wikipedias have been created under the auspices of the Wikimedia Foundation.The list includes 11 Wikipedias that were closed and moved to the Wikimedia Incubator for further development, leaving a current total of 310 active Wikipedias. As its roots lie in the name Yeshua/Y'shua, it is etymologically related to another biblical name, Joshua. That includes children and adults who are learning English. You can follow the question or … Jesus (IPA: / ˈ dʒ iː z ə s /) is a masculine given name derived from the name IESVS in Classical Latin, Iēsous (Greek: Ἰησοῦς), the Greek form of the Hebrew and Aramaic name Yeshua or Y'shua (Hebrew: ישוע ‎). It's free and open Wikipedia is … Native-language vocabulary. My Bing when I sign in is now German and I cannot get my search points to show, this is just too weird This thread is locked. A language family is a group of languages related through descent from a common ancestral language or parental language, called the proto-language of that family. A key element in its creators’ vision of a user-generated online encyclopedia was to make it a repository of information serving audiences in multiple languages. Ad-free and free of charge, forever. Building off of NinjaCat's answer, we assume that Google reads and predicts the language of your website using an N-gram algorithm-- so, we can't say exactly why Google wants to translate your page; we can only assume that: There are words on your page that belong to a different language. Wikipedia was founded as an offshoot of Nupedia, a now-abandoned project to produce a free encyclopedia, begun by the online media company Bomis.Nupedia had an elaborate system of peer review and required highly qualified contributors, but articles' writing was slow. You could believe for a moment that writing a query in a different language should return results in that language but that is not the case usually. Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation. During 2000, Jimmy Wales (founder of Nupedia and co-founder of Bomis), and Larry Sanger, whom Wales had employed to … == Why you'll love the this app == 1. Wikipedias are places where people work together to write encyclopedias in different languages. ";s:7:"keyword";s:43:"why is my wikipedia in a different language";s:5:"links";s:1056:"<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/%C3%A7a-va-mal-french-to-english">ça Va Mal French To English</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/the-way-you-are">The Way You Are</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/tere-naina-film">Tere Naina Film</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/2020-summer-olympics">2020 Summer Olympics</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/adina-porter-heritage">Adina Porter Heritage</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/academy-of-art-university-graduation-rate">Academy Of Art University Graduation Rate</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/tottenham-vs-man-city-carabao-cup-final-tickets">Tottenham Vs Man City Carabao Cup Final Tickets</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/udhar-ki-zindagi-1994-mymp3song">Udhar Ki Zindagi 1994 Mymp3song</a>,
+";s:7:"expired";i:-1;}

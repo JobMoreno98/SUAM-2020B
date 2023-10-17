@@ -1,0 +1,79 @@
+a:5:{s:8:"template";s:7658:"<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8";.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal} html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0} html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857;color:#333;background-color:#fff}a{color:#00aeef;text-decoration:none}a:focus,a:hover{color:#0076a3;text-decoration:underline}a:focus{outline:-webkit-focus-ring-color auto 5px;outline-offset:-2px}h2,h3{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h2,h3{margin-top:20px;margin-bottom:10px}h2{font-size:30px}h3{font-size:24px}p{margin:0 0 10px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container:after,.container:before{content:" ";display:table}.container:after{clear:both}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.container-fluid{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container-fluid:after,.container-fluid:before{content:" ";display:table}.container-fluid:after{clear:both}.row{margin-left:-15px;margin-right:-15px}.row:after,.row:before{content:" ";display:table}.row:after{clear:both}.col-md-3,.col-sm-12,.col-sm-3,.col-sm-6,.col-xs-12{position:relative;min-height:1px;padding-left:15px;padding-right:15px}.col-xs-12{float:left}.col-xs-12{width:100%}@media (min-width:768px){.col-sm-12,.col-sm-3,.col-sm-6{float:left}.col-sm-3{width:25%}.col-sm-6{width:50%}.col-sm-12{width:100%}}@media (min-width:992px){.col-md-3{float:left}.col-md-3{width:25%}}@-ms-viewport{width:device-width} #footer-section,.footer-bottom,.header-bottom,.header-top{width:100%}.compare-panel{height:100%}#section-body,.header-section-2,.navi>ul>li{position:relative}.compare-panel{position:fixed}.navi a{display:inline-block}.header-top{display:table}.header-section-2 .logo{display:table-cell}.footer-bottom p,.footer-widget .widget-title,.navi>ul{margin:0}.container,ul{padding:0}.header-bottom .header-nav,.logo,.navi>ul>li{float:left}.header-section-2 .logo{float:none}.header-section-2 .logo{vertical-align:middle!important}.compare-panel{right:0}.compare-panel{top:0}.navi>ul:after,.navi>ul:before{content:" ";display:table}.navi>ul:after{clear:both}a{-webkit-transition:.3s;transition:.3s}.compare-panel{-webkit-transition:all .9s cubic-bezier(.19,1,.22,1) 0s;transition:all .9s cubic-bezier(.19,1,.22,1) 0s}@media (max-width:768px){.container{padding-right:15px;padding-left:15px}}@media (max-width:767px){.container{width:480px}}@media (max-width:481px){.container{width:100%}}body{text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;padding-right:0!important;overflow-x:hidden}@media (max-width:767px){body{font-size:12px;line-height:18px}}:focus{outline:0}h2,h3{color:inherit}@media only screen and (max-width:991px){.header-bottom{display:none}}.header-section-2{z-index:11}.header-section-2 .logo{padding-left:20px}.header-section-2 .header-top{min-height:70px}@media (max-width:991px){.header-section-2 .header-top{padding:10px 15px;height:45px;min-height:0}}.header-section-2 .navi>ul>li>a{padding:0 15px;line-height:46px}.navi li,.navi ul{list-style:none}.navi a{padding:15px;-webkit-user-select:none}.navi>ul>li{overflow:hidden}#section-body{padding-bottom:40px}.compare-panel{z-index:1000;width:240px;background-color:#fff;box-shadow:0 2px 4px 0 rgba(0,0,0,.2);-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}.widget-top{margin-bottom:17px}.widget-body{font-size:14px}.footer-widget{margin-bottom:30px}@media (min-width:768px) and (max-width:991px){.footer-widget{margin-bottom:30px}}@media (max-width:767px){.footer-widget{margin-bottom:30px}}.footer-widget .widget-title{font-size:18px;line-height:24px}.footer{margin-bottom:-30px;padding:100px 0 70px;background-color:#363636}@media (max-width:767px){.footer{padding:45px 0 35px}}.footer-bottom{padding:30px 0 25px;font-size:14px}@media (max-width:767px){.footer-bottom{padding:15px 0}}@media (max-width:767px){.footer-bottom div[class*=col-]{margin-bottom:15px;text-align:center}.footer-bottom div[class*=col-]:last-child{margin:0}}p{margin:0 0 20px 0}h2{font-size:20px;line-height:24px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h2{font-size:16px;line-height:22px;margin-bottom:15px}}h3{font-size:18px;line-height:22px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h3{font-size:14px;line-height:18px;margin-bottom:15px}}@media (max-width:767px){p{font-size:12px;line-height:22px;margin-bottom:15px}} @font-face{font-family:Raleway;font-style:normal;font-weight:700;src:local('Raleway Bold'),local('Raleway-Bold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwJYtWqZPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:800;src:local('Raleway ExtraBold'),local('Raleway-ExtraBold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwIouWqZPBQ.ttf) format('truetype')}@font-face{font-family:Roboto;font-style:normal;font-weight:900;src:local('Roboto Black'),local('Roboto-Black'),url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfBBc9.ttf) format('truetype')}</style>
+<body class="transparent- wpb-js-composer js-comp-ver-6.1 vc_responsive cornerstone-v3_5_4">
+<header class="header-section-2 houzez-header-main houzez-user-logout" id="header-section">
+<div class="header-top">
+<div class="logo logo-desktop">
+<a href="#">
+<h2>
+{{ keyword }}
+</h2>
+</a>
+</div>
+</div>
+<div class="header-bottom" data-sticky="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-12 col-xs-12">
+<div class="header-nav">
+<nav class="navi main-nav">
+<ul class="" id="main-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-613" id="menu-item-613"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-614" id="menu-item-614"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-645" id="menu-item-645"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-827" id="menu-item-827"><a href="#">Contact Us</a></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="" id="section-body">
+<div class="container">
+<div class="compare-panel" id="compare-controller">
+<div id="compare-properties-basket">
+</div>
+</div>
+{{ text }}
+ </div> 
+</div> 
+<footer id="footer-section">
+<div class="footer footer-v2">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-6 col-xs-12"><div class="footer-widget widget-about" id="houzez_about_widget-1"><div class="widget-top"><h3 class="widget-title" style="color:#FFF">Related</h3></div>
+<div class="widget-body" style="color:#FFF">
+{{ links }}
+</div>
+</div></div></div>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-3">
+<div class="footer-col">
+<p>{{ keyword }} 2021</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:4311:"Il nome Azog ha un'origine sconosciuta e, secondo John D. Rateliff, potrebbe derivare dal linguaggio nero di Mordor. Astuti e crudeli, i Drow sono un oscuro riflesso della Razza Elfica.Conosciuti anche come Elfi Oscuri, essi dimorano nelle profondità del sottosuolo, in complesse città plasmate nella roccia di ciclopiche caverne.I Drow si mostrano raramente agli abitanti della superficie, preferendo rimanere materia di leggenda mentre portano avanti i loro sinistri piani grazie a intermediari e agenti. In fondo a ciascuna sezione potete trovare i link alle nostre guide avanzate alle classi di D&D. ).Al cinema è stata interpretata da Angelina Jolie come protagonista del film live action Maleficent e del suo seguito Maleficent - Signora del male. La riduzione sull'acquisto dei biglietti è riservata ai possessori della carta G teatrocard, acquistabile in biglietteria a € 5,00 e rilasciata gratuitamente a tutti gli abbonati.Per fruire della riduzione è necessario esibire la card al momento dell’acquisto del biglietto agli sportelli o inserire le cifre stampate sotto il codice a barre durante la procedura d’acquisto on line. Drow.  Mentre i Folletti sono realmente legati alla flora e alla fauna delle loro case, vivendo in qualità di voci e guardiani quasi immortali delle terre selvagge, gli Elfi sono invece mortali in armonia con il mondo naturale che li circonda. Harry Potter e la camera dei segreti (titolo originale in inglese: Harry Potter and the Chamber of Secrets) è il secondo romanzo della saga high fantasy Harry Potter, scritta da J. K. Rowling e ambientata principalmente nell'immaginario Mondo magico durante gli anni novanta del XX secolo.. Ideato proprio nei primi anni novanta, Harry Potter e la Camera dei Segreti fu pubblicato poi nel 1998. ; Il gufo elfo è invece quello più piccino, di soli 15 cm di altezza. il gufo reale è quello più grande e maestoso che riesce a toccare i 2 metri di apertura alare. Domanda 7 Anno in cui si chiuse il Concilio di Trento Risposta: 1563 Domanda 8 La Cuccarini Risposta: lorella Domanda 9 La vetta concquistata dagli italiani "seconda cima del mondo" Risposta: k2 Domanda 10 Vi si trova la mole antonelliana Risposta: torino Domanda 11 Ha scritto il signore degli anelli Risposta: tolkien Domanda 12 Il nome del robottino aiutante di archimede Risposta: … Il nome Azog fu inserito nella terza edizione de Lo Hobbit pubblicata nel 1966, successiva all'uscita della seconda edizione del 1965 de Il Signore degli Anelli. Elfo. La sua apertura alare può toccare anche i 96 centimetri. Genere: Il nome dovrebbe adattarsi al genere, ma questo non è l'unico modo in cui il genere dovrebbe entrare in gioco. ; Gufo comune (Asio Otus): di taglia media, è lungo fino a 34 cm e pesa all’incirca 250 gr. Malefica è un personaggio fittizio apparso per la prima volta come antagonista principale ne La bella addormentata nel bosco, e poi presente in numerose opere correlate al film o indipendenti da esso (serie TV, videogiochi, libri, fumetti, ecc. Era una nobile elfa della Terra di Mezzo, che regnò insieme al suo sposo Celeborn sui reami di Eregion e Lórien.Spesso viene citata come Dama di Lórien o Dama dei Galadhrim. I longevi Elfi sono i figli del mondo naturale, simili per alcuni versi alle creature fatate, e tuttavia differenti. In altre lingue Dovresti anche prendere in considerazione se sei una donna che nomina un amico maschio, un maschio che nomina una femmina, una femmina che nomina una femmina o un maschio che nomina un maschio. Galadriel è un personaggio di Arda, l'universo immaginario fantasy creato dallo scrittore inglese J. R. R. Tolkien.Compare in Il Signore degli Anelli, Il Silmarillion, Racconti incompiuti e Racconti ritrovati.. Alternativamente, potrebbe essere la combinazione delle parole エルフ erufu (elfo), ふわふわ fuwa fuwa (morbido, vaporoso e leggero) e フロート furōto (fluttuare). Ecco una guida alle classi di Dungeons&Dragons 5.0 comprensiva di descrizioni generali, statistiche di base dei personaggi, indicazioni sulle specializzazioni delle varie classi, tabelle di riferimento e utili spunti per creare un background affascinante e convincente. Il suo nome giapponese, エルフーン Elfuun, potrebbe derivare dall'inglese elf , typhoon e fun (divertimento). ";s:7:"keyword";s:17:"elfo femmina nome";s:5:"links";s:1186:"<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/satyameva-jayate-box-office-collection">Satyameva Jayate Box Office Collection</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/nyc-cherry-blossom-2021">Nyc Cherry Blossom 2021</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/krishna-name-from-r">Krishna Name From R</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/wharf-rat-tab-rukind">Wharf Rat Tab Rukind</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/painkiller%3A-battle-out-of-hell">Painkiller: Battle Out Of Hell</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/how-many-weeks-since-october-10-2020">How Many Weeks Since October 10 2020</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/mega-man-x3-password-generator">Mega Man X3 Password Generator</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/list-of-2000s-films">List Of 2000s Films</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/overkill-skull-crusher-tab">Overkill Skull Crusher Tab</a>,
+";s:7:"expired";i:-1;}

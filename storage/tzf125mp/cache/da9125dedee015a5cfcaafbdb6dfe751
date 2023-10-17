@@ -1,0 +1,79 @@
+a:5:{s:8:"template";s:7658:"<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8";.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal} html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0} html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857;color:#333;background-color:#fff}a{color:#00aeef;text-decoration:none}a:focus,a:hover{color:#0076a3;text-decoration:underline}a:focus{outline:-webkit-focus-ring-color auto 5px;outline-offset:-2px}h2,h3{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h2,h3{margin-top:20px;margin-bottom:10px}h2{font-size:30px}h3{font-size:24px}p{margin:0 0 10px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container:after,.container:before{content:" ";display:table}.container:after{clear:both}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.container-fluid{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container-fluid:after,.container-fluid:before{content:" ";display:table}.container-fluid:after{clear:both}.row{margin-left:-15px;margin-right:-15px}.row:after,.row:before{content:" ";display:table}.row:after{clear:both}.col-md-3,.col-sm-12,.col-sm-3,.col-sm-6,.col-xs-12{position:relative;min-height:1px;padding-left:15px;padding-right:15px}.col-xs-12{float:left}.col-xs-12{width:100%}@media (min-width:768px){.col-sm-12,.col-sm-3,.col-sm-6{float:left}.col-sm-3{width:25%}.col-sm-6{width:50%}.col-sm-12{width:100%}}@media (min-width:992px){.col-md-3{float:left}.col-md-3{width:25%}}@-ms-viewport{width:device-width} #footer-section,.footer-bottom,.header-bottom,.header-top{width:100%}.compare-panel{height:100%}#section-body,.header-section-2,.navi>ul>li{position:relative}.compare-panel{position:fixed}.navi a{display:inline-block}.header-top{display:table}.header-section-2 .logo{display:table-cell}.footer-bottom p,.footer-widget .widget-title,.navi>ul{margin:0}.container,ul{padding:0}.header-bottom .header-nav,.logo,.navi>ul>li{float:left}.header-section-2 .logo{float:none}.header-section-2 .logo{vertical-align:middle!important}.compare-panel{right:0}.compare-panel{top:0}.navi>ul:after,.navi>ul:before{content:" ";display:table}.navi>ul:after{clear:both}a{-webkit-transition:.3s;transition:.3s}.compare-panel{-webkit-transition:all .9s cubic-bezier(.19,1,.22,1) 0s;transition:all .9s cubic-bezier(.19,1,.22,1) 0s}@media (max-width:768px){.container{padding-right:15px;padding-left:15px}}@media (max-width:767px){.container{width:480px}}@media (max-width:481px){.container{width:100%}}body{text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;padding-right:0!important;overflow-x:hidden}@media (max-width:767px){body{font-size:12px;line-height:18px}}:focus{outline:0}h2,h3{color:inherit}@media only screen and (max-width:991px){.header-bottom{display:none}}.header-section-2{z-index:11}.header-section-2 .logo{padding-left:20px}.header-section-2 .header-top{min-height:70px}@media (max-width:991px){.header-section-2 .header-top{padding:10px 15px;height:45px;min-height:0}}.header-section-2 .navi>ul>li>a{padding:0 15px;line-height:46px}.navi li,.navi ul{list-style:none}.navi a{padding:15px;-webkit-user-select:none}.navi>ul>li{overflow:hidden}#section-body{padding-bottom:40px}.compare-panel{z-index:1000;width:240px;background-color:#fff;box-shadow:0 2px 4px 0 rgba(0,0,0,.2);-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}.widget-top{margin-bottom:17px}.widget-body{font-size:14px}.footer-widget{margin-bottom:30px}@media (min-width:768px) and (max-width:991px){.footer-widget{margin-bottom:30px}}@media (max-width:767px){.footer-widget{margin-bottom:30px}}.footer-widget .widget-title{font-size:18px;line-height:24px}.footer{margin-bottom:-30px;padding:100px 0 70px;background-color:#363636}@media (max-width:767px){.footer{padding:45px 0 35px}}.footer-bottom{padding:30px 0 25px;font-size:14px}@media (max-width:767px){.footer-bottom{padding:15px 0}}@media (max-width:767px){.footer-bottom div[class*=col-]{margin-bottom:15px;text-align:center}.footer-bottom div[class*=col-]:last-child{margin:0}}p{margin:0 0 20px 0}h2{font-size:20px;line-height:24px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h2{font-size:16px;line-height:22px;margin-bottom:15px}}h3{font-size:18px;line-height:22px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h3{font-size:14px;line-height:18px;margin-bottom:15px}}@media (max-width:767px){p{font-size:12px;line-height:22px;margin-bottom:15px}} @font-face{font-family:Raleway;font-style:normal;font-weight:700;src:local('Raleway Bold'),local('Raleway-Bold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwJYtWqZPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:800;src:local('Raleway ExtraBold'),local('Raleway-ExtraBold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwIouWqZPBQ.ttf) format('truetype')}@font-face{font-family:Roboto;font-style:normal;font-weight:900;src:local('Roboto Black'),local('Roboto-Black'),url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfBBc9.ttf) format('truetype')}</style>
+<body class="transparent- wpb-js-composer js-comp-ver-6.1 vc_responsive cornerstone-v3_5_4">
+<header class="header-section-2 houzez-header-main houzez-user-logout" id="header-section">
+<div class="header-top">
+<div class="logo logo-desktop">
+<a href="#">
+<h2>
+{{ keyword }}
+</h2>
+</a>
+</div>
+</div>
+<div class="header-bottom" data-sticky="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-12 col-xs-12">
+<div class="header-nav">
+<nav class="navi main-nav">
+<ul class="" id="main-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-613" id="menu-item-613"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-614" id="menu-item-614"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-645" id="menu-item-645"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-827" id="menu-item-827"><a href="#">Contact Us</a></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="" id="section-body">
+<div class="container">
+<div class="compare-panel" id="compare-controller">
+<div id="compare-properties-basket">
+</div>
+</div>
+{{ text }}
+ </div> 
+</div> 
+<footer id="footer-section">
+<div class="footer footer-v2">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-6 col-xs-12"><div class="footer-widget widget-about" id="houzez_about_widget-1"><div class="widget-top"><h3 class="widget-title" style="color:#FFF">Related</h3></div>
+<div class="widget-body" style="color:#FFF">
+{{ links }}
+</div>
+</div></div></div>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-3">
+<div class="footer-col">
+<p>{{ keyword }} 2021</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:3483:"许多 [ 形容词比较级more 最高级most ] [ 副词比较级more 最高级most ] 例句与用法 1. 多數人同意我的意見。(並沒有說是特定的哪一群人同意我的意見) 2. = A-Mei is more famous than any other singer in Taiwan. more 是many和much的是比较级,most是many和much的最高级 如:more important, 比较重要;most important 最重要.还有:more 还可修饰副词,more often经常、常常;most可修饰名词, most people大多数人. A-Mei is the most famous of all singers in Taiwan. I go to the shop most every day. = No other singer(s) is (are) as famous as A-Mei in Taiwan. (2) この用法のmostは文や節の末尾に置くのがふつうだが, enjoy, want, fearなど心的態度を表す動詞を修飾する場合はその前に来ることもある：What did the children most enjoy？ 其他类似问题 more、most、many的用法 2017-11-11 many more much most的区别是什么?用法上的不同是什么?学霸粗线吧! Most, the most, mostly - 當代英語文法 - 書面和口頭英語文法和用法的參考資料 - 劍橋線上詞典. most more 的用法区别 更新时间：2021-04-14 03:37:27; more和most的用法-搜狗问问. Most people agree with me. 许多的 ad. most:[ məust ] n.最多,最大 a.大多数的,几乎全部的,最多的 ad.最,最多,极其 例句与用法 1.It was one of the most important discoveries ever made. Most 跟 Most of的用法, 最大的差別就是句中到底有沒有特定的人事物~ 以下例句讓大家動動腦, 看看特定的人事物到底是甚麼, 你就知道如何使用, 不須特別去記甚麼詞, 甚麼句子~ Most 的例句: 1. He spoke most bitterly of his experiences in prison. 他十分痛苦地讲述了他在监狱中的经历。 5. more和most的用法 - ： more 是many和much的是比较级,most是many和much的最高级 如:more important, 比较重要;most important 最重要.还有:more 还可修饰副词,more often经常、常常;most可修饰名词, most people大多数人. = No other signer(s) is (are) more famous than A-Mei in Taiwan. 単音節の語でもlike（似ている）、real（真の）、strange（不思議な）、wrong（誤った）、right（正しい）などの語はふつうmore、mostをつけます。 [注2] 3音節以上の語でも、もともと－er、－estをつけるものに「否定接頭辞」をつけたものは、－er、－estをつけます。 很,非常 pron.&n. Most cheese is … 我差不多每天都去商店。 much: [ mt ] a. 4. more.most.的区别,后面各自加什么 - 作业帮 ： more 用在比较级中,后可加形容词或副词比较级 most 用于最高级,后可加形容词或副词的最高级 more与most有什么区别 - ： 根本的区别在于用法,因为他们是同一个词的不同形式 举个例子:you have more money. 粉刷天花板用了将近一整天的时间. 中学2年生 2017.08.05 2019.01.11 マナ花キャット 【中学英語】~er than/more than の用法 比較級の使い方 = A-Mei is more famous than all the other singers in Taiwan.  他越来越公开地谈他的问题, 7.It took more or less a whole day to paint the ceiling. [語法] (1) この用法ではmostの前のtheは省くことが多い. 本日からは most の用法を取り上げます。これも色々厄介な用法が満載なので一つ一つ検証していきましょう。本日は very を意味する most の用法です。 (1) It's most kind of you! ";s:7:"keyword";s:16:"most more 用法";s:5:"links";s:1176:"<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/bob-weir-new-year%27s-eve-2020">Bob Weir New Year's Eve 2020</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/the-contemporary-world-is-furiously-religious">The Contemporary World Is Furiously Religious</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/where-did-my-libido-go%3F">Where Did My Libido Go?</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/the-wilds-fatin">The Wilds Fatin</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/hamari-atariya-pe-aaja-re-sawariya-movie-name">Hamari Atariya Pe Aaja Re Sawariya Movie Name</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/the-frozen-ghost">The Frozen Ghost</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/faro-technologies-careers">Faro Technologies Careers</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/the-fall-of-berlin">The Fall Of Berlin</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tzf125mp/ella-enchanted-movie">Ella Enchanted Movie</a>,
+";s:7:"expired";i:-1;}

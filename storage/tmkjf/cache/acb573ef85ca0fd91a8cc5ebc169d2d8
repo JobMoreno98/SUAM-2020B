@@ -1,0 +1,82 @@
+a:5:{s:8:"template";s:7658:"<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8";.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal} html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0} html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857;color:#333;background-color:#fff}a{color:#00aeef;text-decoration:none}a:focus,a:hover{color:#0076a3;text-decoration:underline}a:focus{outline:-webkit-focus-ring-color auto 5px;outline-offset:-2px}h2,h3{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h2,h3{margin-top:20px;margin-bottom:10px}h2{font-size:30px}h3{font-size:24px}p{margin:0 0 10px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container:after,.container:before{content:" ";display:table}.container:after{clear:both}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.container-fluid{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container-fluid:after,.container-fluid:before{content:" ";display:table}.container-fluid:after{clear:both}.row{margin-left:-15px;margin-right:-15px}.row:after,.row:before{content:" ";display:table}.row:after{clear:both}.col-md-3,.col-sm-12,.col-sm-3,.col-sm-6,.col-xs-12{position:relative;min-height:1px;padding-left:15px;padding-right:15px}.col-xs-12{float:left}.col-xs-12{width:100%}@media (min-width:768px){.col-sm-12,.col-sm-3,.col-sm-6{float:left}.col-sm-3{width:25%}.col-sm-6{width:50%}.col-sm-12{width:100%}}@media (min-width:992px){.col-md-3{float:left}.col-md-3{width:25%}}@-ms-viewport{width:device-width} #footer-section,.footer-bottom,.header-bottom,.header-top{width:100%}.compare-panel{height:100%}#section-body,.header-section-2,.navi>ul>li{position:relative}.compare-panel{position:fixed}.navi a{display:inline-block}.header-top{display:table}.header-section-2 .logo{display:table-cell}.footer-bottom p,.footer-widget .widget-title,.navi>ul{margin:0}.container,ul{padding:0}.header-bottom .header-nav,.logo,.navi>ul>li{float:left}.header-section-2 .logo{float:none}.header-section-2 .logo{vertical-align:middle!important}.compare-panel{right:0}.compare-panel{top:0}.navi>ul:after,.navi>ul:before{content:" ";display:table}.navi>ul:after{clear:both}a{-webkit-transition:.3s;transition:.3s}.compare-panel{-webkit-transition:all .9s cubic-bezier(.19,1,.22,1) 0s;transition:all .9s cubic-bezier(.19,1,.22,1) 0s}@media (max-width:768px){.container{padding-right:15px;padding-left:15px}}@media (max-width:767px){.container{width:480px}}@media (max-width:481px){.container{width:100%}}body{text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;padding-right:0!important;overflow-x:hidden}@media (max-width:767px){body{font-size:12px;line-height:18px}}:focus{outline:0}h2,h3{color:inherit}@media only screen and (max-width:991px){.header-bottom{display:none}}.header-section-2{z-index:11}.header-section-2 .logo{padding-left:20px}.header-section-2 .header-top{min-height:70px}@media (max-width:991px){.header-section-2 .header-top{padding:10px 15px;height:45px;min-height:0}}.header-section-2 .navi>ul>li>a{padding:0 15px;line-height:46px}.navi li,.navi ul{list-style:none}.navi a{padding:15px;-webkit-user-select:none}.navi>ul>li{overflow:hidden}#section-body{padding-bottom:40px}.compare-panel{z-index:1000;width:240px;background-color:#fff;box-shadow:0 2px 4px 0 rgba(0,0,0,.2);-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}.widget-top{margin-bottom:17px}.widget-body{font-size:14px}.footer-widget{margin-bottom:30px}@media (min-width:768px) and (max-width:991px){.footer-widget{margin-bottom:30px}}@media (max-width:767px){.footer-widget{margin-bottom:30px}}.footer-widget .widget-title{font-size:18px;line-height:24px}.footer{margin-bottom:-30px;padding:100px 0 70px;background-color:#363636}@media (max-width:767px){.footer{padding:45px 0 35px}}.footer-bottom{padding:30px 0 25px;font-size:14px}@media (max-width:767px){.footer-bottom{padding:15px 0}}@media (max-width:767px){.footer-bottom div[class*=col-]{margin-bottom:15px;text-align:center}.footer-bottom div[class*=col-]:last-child{margin:0}}p{margin:0 0 20px 0}h2{font-size:20px;line-height:24px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h2{font-size:16px;line-height:22px;margin-bottom:15px}}h3{font-size:18px;line-height:22px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h3{font-size:14px;line-height:18px;margin-bottom:15px}}@media (max-width:767px){p{font-size:12px;line-height:22px;margin-bottom:15px}} @font-face{font-family:Raleway;font-style:normal;font-weight:700;src:local('Raleway Bold'),local('Raleway-Bold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwJYtWqZPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:800;src:local('Raleway ExtraBold'),local('Raleway-ExtraBold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwIouWqZPBQ.ttf) format('truetype')}@font-face{font-family:Roboto;font-style:normal;font-weight:900;src:local('Roboto Black'),local('Roboto-Black'),url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfBBc9.ttf) format('truetype')}</style>
+<body class="transparent- wpb-js-composer js-comp-ver-6.1 vc_responsive cornerstone-v3_5_4">
+<header class="header-section-2 houzez-header-main houzez-user-logout" id="header-section">
+<div class="header-top">
+<div class="logo logo-desktop">
+<a href="#">
+<h2>
+{{ keyword }}
+</h2>
+</a>
+</div>
+</div>
+<div class="header-bottom" data-sticky="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-12 col-xs-12">
+<div class="header-nav">
+<nav class="navi main-nav">
+<ul class="" id="main-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-613" id="menu-item-613"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-614" id="menu-item-614"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-645" id="menu-item-645"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-827" id="menu-item-827"><a href="#">Contact Us</a></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="" id="section-body">
+<div class="container">
+<div class="compare-panel" id="compare-controller">
+<div id="compare-properties-basket">
+</div>
+</div>
+{{ text }}
+ </div> 
+</div> 
+<footer id="footer-section">
+<div class="footer footer-v2">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-6 col-xs-12"><div class="footer-widget widget-about" id="houzez_about_widget-1"><div class="widget-top"><h3 class="widget-title" style="color:#FFF">Related</h3></div>
+<div class="widget-body" style="color:#FFF">
+{{ links }}
+</div>
+</div></div></div>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-3">
+<div class="footer-col">
+<p>{{ keyword }} 2021</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:2980:"The rapper was reportedly unaware of the boy's existence until he was a year old. The 19-year-old, who is currently… Jammiah Broomfield is currently single. See all Jammiah Broomfield's marriages, divorces, hookups, break ups, affairs, and dating relationships plus celebrity photos, latest Jammiah Broomfield news, gossip, and biography. Music - Rapper. She has been in one celebrity relationship.She has never been married. For a while, Kodak Black didn’t have a … He even bought her a Mercedes. Why Famous: Tunnel Vision, single. Kodak already has a 7-year-old son named King Khalid with his ex Jammiah Broomfield and this will be the second child for him. 6/11/1997) Kodak Black's Relationships (1) Jammiah Broomfield. Kodak Black was arrested again this month, but that may be the least of his worries. The rapper Kodak Black has got a 4-year-old son named King Khalid Octave. Fans are interested in the ability to parent the one that he has. Kodak Black didn’t have any info about his son with ex-partner Jammiah Broomfield, she kept it a secret until the infant King Khalid Octave was 1-year-old. Kodak Black is currently available. Bossip reports that the Florida rapper is tired of his son’s mother, Jammiah Broomfield, demanding money in exchange for letting him see his son King Khalid. According to Bossip, the Project Baby 2 rapper has been ordered to pay his baby mam Jammiah Broomfield a monthly child support stipend of $4,200. This will be the second child for Kodak, who already has a 7-year-old son named King Khalid with his ex Jammiah Broomfield. Kodak had his first child King Khalid with his ex-partner Jammiah Broomfield. Jammiah Broomfield Said She’s Penniless And Can’t Battle Kodak Black’s Lawsuit Over Son . Kodak is headed to court to ask a judge for help. Kodak has … Kodak black smash cake in his son face a comment said “I know he ready for him to go back to jail “  ... His mom is KB’s ex Jammiah Broomfield. Kodak Black dated Jammiah Broomfield in the past, but they have since broken up. Kodak wasn’t told by his son’s mother that he was the dad. The cute King Khalid Octave was born on the 13th of March, 2014.  Simply after that Kodak knew that he had a child born on the 13th of March, 2014. A portion of Kodak’s wealth also goes to paying child support and for other needs of his 3-year-old son. Kodak was not aware of the child until he turned one year old. He had several issues with the mother of his child Jammiah Broomfield over the payment and custody. Just last month, Kodak … Age: 23 (b. Outside of his son, Kodak also gives some money to his mom. Kodak Black. Other - Other. The Florida rapper’s first son King was celebrating his birthday party. The child is mothered by his previous girlfriend, Jammiah Broomfield. According to the folks at Bossip, the 19-year-old rap star says Jammiah Broomfield, who is the mother of his three-year-old son King Khalid, has been demanding money from Kodak … ";s:7:"keyword";s:24:"jammiah broomfield kodak";s:5:"links";s:1456:"<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/bible-verses-for-home-entrance">Bible Verses For Home Entrance</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/blood-in-eden">Blood In Eden</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/vintage-pay-phone-booth-for-sale">Vintage Pay Phone Booth For Sale</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/picture-of-a-musket">Picture Of A Musket</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/andrew-wk-party-songs">Andrew Wk Party Songs</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/umbra-exhibit-photo-display-brass">Umbra Exhibit Photo Display Brass</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/limited-run-games-list">Limited Run Games List</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/ausnahme-quarant%C3%A4ne-bayern">Ausnahme Quarantäne Bayern</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/alice-in-wonderland-3d">Alice In Wonderland 3d</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/strictly-business-book">Strictly Business Book</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/girls-underwear-size-6">Girls Underwear Size 6</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/dead-rising-3">Dead Rising 3</a>,
+";s:7:"expired";i:-1;}

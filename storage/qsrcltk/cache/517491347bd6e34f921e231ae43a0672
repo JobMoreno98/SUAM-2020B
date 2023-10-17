@@ -1,0 +1,80 @@
+a:5:{s:8:"template";s:7658:"<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8";.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal} html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0} html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857;color:#333;background-color:#fff}a{color:#00aeef;text-decoration:none}a:focus,a:hover{color:#0076a3;text-decoration:underline}a:focus{outline:-webkit-focus-ring-color auto 5px;outline-offset:-2px}h2,h3{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h2,h3{margin-top:20px;margin-bottom:10px}h2{font-size:30px}h3{font-size:24px}p{margin:0 0 10px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container:after,.container:before{content:" ";display:table}.container:after{clear:both}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.container-fluid{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container-fluid:after,.container-fluid:before{content:" ";display:table}.container-fluid:after{clear:both}.row{margin-left:-15px;margin-right:-15px}.row:after,.row:before{content:" ";display:table}.row:after{clear:both}.col-md-3,.col-sm-12,.col-sm-3,.col-sm-6,.col-xs-12{position:relative;min-height:1px;padding-left:15px;padding-right:15px}.col-xs-12{float:left}.col-xs-12{width:100%}@media (min-width:768px){.col-sm-12,.col-sm-3,.col-sm-6{float:left}.col-sm-3{width:25%}.col-sm-6{width:50%}.col-sm-12{width:100%}}@media (min-width:992px){.col-md-3{float:left}.col-md-3{width:25%}}@-ms-viewport{width:device-width} #footer-section,.footer-bottom,.header-bottom,.header-top{width:100%}.compare-panel{height:100%}#section-body,.header-section-2,.navi>ul>li{position:relative}.compare-panel{position:fixed}.navi a{display:inline-block}.header-top{display:table}.header-section-2 .logo{display:table-cell}.footer-bottom p,.footer-widget .widget-title,.navi>ul{margin:0}.container,ul{padding:0}.header-bottom .header-nav,.logo,.navi>ul>li{float:left}.header-section-2 .logo{float:none}.header-section-2 .logo{vertical-align:middle!important}.compare-panel{right:0}.compare-panel{top:0}.navi>ul:after,.navi>ul:before{content:" ";display:table}.navi>ul:after{clear:both}a{-webkit-transition:.3s;transition:.3s}.compare-panel{-webkit-transition:all .9s cubic-bezier(.19,1,.22,1) 0s;transition:all .9s cubic-bezier(.19,1,.22,1) 0s}@media (max-width:768px){.container{padding-right:15px;padding-left:15px}}@media (max-width:767px){.container{width:480px}}@media (max-width:481px){.container{width:100%}}body{text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;padding-right:0!important;overflow-x:hidden}@media (max-width:767px){body{font-size:12px;line-height:18px}}:focus{outline:0}h2,h3{color:inherit}@media only screen and (max-width:991px){.header-bottom{display:none}}.header-section-2{z-index:11}.header-section-2 .logo{padding-left:20px}.header-section-2 .header-top{min-height:70px}@media (max-width:991px){.header-section-2 .header-top{padding:10px 15px;height:45px;min-height:0}}.header-section-2 .navi>ul>li>a{padding:0 15px;line-height:46px}.navi li,.navi ul{list-style:none}.navi a{padding:15px;-webkit-user-select:none}.navi>ul>li{overflow:hidden}#section-body{padding-bottom:40px}.compare-panel{z-index:1000;width:240px;background-color:#fff;box-shadow:0 2px 4px 0 rgba(0,0,0,.2);-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}.widget-top{margin-bottom:17px}.widget-body{font-size:14px}.footer-widget{margin-bottom:30px}@media (min-width:768px) and (max-width:991px){.footer-widget{margin-bottom:30px}}@media (max-width:767px){.footer-widget{margin-bottom:30px}}.footer-widget .widget-title{font-size:18px;line-height:24px}.footer{margin-bottom:-30px;padding:100px 0 70px;background-color:#363636}@media (max-width:767px){.footer{padding:45px 0 35px}}.footer-bottom{padding:30px 0 25px;font-size:14px}@media (max-width:767px){.footer-bottom{padding:15px 0}}@media (max-width:767px){.footer-bottom div[class*=col-]{margin-bottom:15px;text-align:center}.footer-bottom div[class*=col-]:last-child{margin:0}}p{margin:0 0 20px 0}h2{font-size:20px;line-height:24px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h2{font-size:16px;line-height:22px;margin-bottom:15px}}h3{font-size:18px;line-height:22px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h3{font-size:14px;line-height:18px;margin-bottom:15px}}@media (max-width:767px){p{font-size:12px;line-height:22px;margin-bottom:15px}} @font-face{font-family:Raleway;font-style:normal;font-weight:700;src:local('Raleway Bold'),local('Raleway-Bold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwJYtWqZPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:800;src:local('Raleway ExtraBold'),local('Raleway-ExtraBold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwIouWqZPBQ.ttf) format('truetype')}@font-face{font-family:Roboto;font-style:normal;font-weight:900;src:local('Roboto Black'),local('Roboto-Black'),url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfBBc9.ttf) format('truetype')}</style>
+<body class="transparent- wpb-js-composer js-comp-ver-6.1 vc_responsive cornerstone-v3_5_4">
+<header class="header-section-2 houzez-header-main houzez-user-logout" id="header-section">
+<div class="header-top">
+<div class="logo logo-desktop">
+<a href="#">
+<h2>
+{{ keyword }}
+</h2>
+</a>
+</div>
+</div>
+<div class="header-bottom" data-sticky="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-12 col-xs-12">
+<div class="header-nav">
+<nav class="navi main-nav">
+<ul class="" id="main-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-613" id="menu-item-613"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-614" id="menu-item-614"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-645" id="menu-item-645"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-827" id="menu-item-827"><a href="#">Contact Us</a></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="" id="section-body">
+<div class="container">
+<div class="compare-panel" id="compare-controller">
+<div id="compare-properties-basket">
+</div>
+</div>
+{{ text }}
+ </div> 
+</div> 
+<footer id="footer-section">
+<div class="footer footer-v2">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-6 col-xs-12"><div class="footer-widget widget-about" id="houzez_about_widget-1"><div class="widget-top"><h3 class="widget-title" style="color:#FFF">Related</h3></div>
+<div class="widget-body" style="color:#FFF">
+{{ links }}
+</div>
+</div></div></div>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-3">
+<div class="footer-col">
+<p>{{ keyword }} 2021</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:2572:"Shucks! Weekly Bulletins. chuch name, place, etc. St. Stephen Protomartyr – Неділя по Різдві. Translation of the Relics of Stephen the Protomartyr . Office: 1880 Ash St If you are a parish representative and would like to learn more about making your weekly bulletins available on DiscoverMass.com, complete the form below and we will followup with you shortly. WEEKEND MASSES. Mass: Friday, May 7th, 6:45 pm ROSARY WALK SATURDAY - MAY 8TH. … ROGATION DAYS AND PROCESSION St. Stephen Protomartyr Ukrainian Catholic Church Sunday, May 2nd, 2021 BULLETIN: https:// www.saintstephen calgary.ca/ uploads/8/1/6/5/ 81651318/ sunday_bulletin_ 20210502.pdf The Saint Stephen Church Parish Bulletin 1344 White Oak Bottom Road Church Membership Toms River, NJ, 08755 ... Sunday after Christmas. Church: 1280 Prospect Ave. Des Plaines, Il 60018. Bring your Rosary and a sack lunch. Phone: 850-421-9094 Fax:  St. Stephen Protomartyr Ukrainian Catholic Church, Calgary, Alberta. There are currently no bulletins available for St. Stephen Protomartyr. Св. Welcome St. Stephen The First Martyr Parish is entrusted as a personal parish to the Priestly Fraternity of St. Peter (FSSP), an apostolic society instituted by Pope John Paul II in 1988 to offer the sacred liturgy in all of its solemnity according to the Latin liturgical books of 1962. Saturday 5PM - Maximum of 150 attendees Sunday 9AM - Maximum of 150 attendees Sunday 11AM - Maximum of 150 Attendees Sunday 1PM - Polish Mass - … Bulletin; St. Stephen Protomartyr Catholic Church. No pets. For the month of Mary, we will gather at 11:15 am in front of the church and depart at 11:30. 364 likes. the Picnic Committee has hatched a plan for a de-centralized day of celebration on Saturday, June 12. 6044 SW 19th Street | Miramar, FL 33023 | (954) 987-1100 | d_healysec@yahoo.com. Check out the weekly bulletin for a quick view of the upcoming week at St. Stephen’s. 1997 Natural Bridge Rd Woodville, FL 32362. ... “SCHOLARSHIP of St. Stephen Parish”: A scholarship of $500 is available from … Much as you might pick a dandelion, make a fervent and desperate wish for Normal Times, and then blow, dispersing the seeds out to the surrounding area …. 6.8 mile pilgrimage around the parish boundaries. There are no bulletins available. St. Stephen was the first martyr or protomartyr for Jesus Christ; He died in 34AD; His death was accounted for in the Bible - Acts:7; The name Stephen means "Crown" His death was condoned by another future saint at that time "Saul of Tarsus" who became "St. Paul" ";s:7:"keyword";s:31:"st stephen protomartyr bulletin";s:5:"links";s:1258:"<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/prisoner-of-honor">Prisoner Of Honor</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/life-mein-twist-south-movie-imdb">Life Mein Twist South Movie Imdb</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/josuha-guilavogui-fifa-21">Josuha Guilavogui Fifa 21</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/castlevania-bad-voice-acting">Castlevania Bad Voice Acting</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/delta-goodrem-concert-2021-adelaide">Delta Goodrem Concert 2021 Adelaide</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/what-happened-to-mc-chris-2020">What Happened To Mc Chris 2020</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/tomar-amar-prem">Tomar Amar Prem</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/guapdad-4000-spotify">Guapdad 4000 Spotify</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/man-city-vs-bayern-3-2">Man City Vs Bayern 3-2</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/qsrcltk/lambert-name-meaning">Lambert Name Meaning</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,79 @@
+a:5:{s:8:"template";s:7658:"<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8";.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal} html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0} html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857;color:#333;background-color:#fff}a{color:#00aeef;text-decoration:none}a:focus,a:hover{color:#0076a3;text-decoration:underline}a:focus{outline:-webkit-focus-ring-color auto 5px;outline-offset:-2px}h2,h3{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h2,h3{margin-top:20px;margin-bottom:10px}h2{font-size:30px}h3{font-size:24px}p{margin:0 0 10px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container:after,.container:before{content:" ";display:table}.container:after{clear:both}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.container-fluid{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}.container-fluid:after,.container-fluid:before{content:" ";display:table}.container-fluid:after{clear:both}.row{margin-left:-15px;margin-right:-15px}.row:after,.row:before{content:" ";display:table}.row:after{clear:both}.col-md-3,.col-sm-12,.col-sm-3,.col-sm-6,.col-xs-12{position:relative;min-height:1px;padding-left:15px;padding-right:15px}.col-xs-12{float:left}.col-xs-12{width:100%}@media (min-width:768px){.col-sm-12,.col-sm-3,.col-sm-6{float:left}.col-sm-3{width:25%}.col-sm-6{width:50%}.col-sm-12{width:100%}}@media (min-width:992px){.col-md-3{float:left}.col-md-3{width:25%}}@-ms-viewport{width:device-width} #footer-section,.footer-bottom,.header-bottom,.header-top{width:100%}.compare-panel{height:100%}#section-body,.header-section-2,.navi>ul>li{position:relative}.compare-panel{position:fixed}.navi a{display:inline-block}.header-top{display:table}.header-section-2 .logo{display:table-cell}.footer-bottom p,.footer-widget .widget-title,.navi>ul{margin:0}.container,ul{padding:0}.header-bottom .header-nav,.logo,.navi>ul>li{float:left}.header-section-2 .logo{float:none}.header-section-2 .logo{vertical-align:middle!important}.compare-panel{right:0}.compare-panel{top:0}.navi>ul:after,.navi>ul:before{content:" ";display:table}.navi>ul:after{clear:both}a{-webkit-transition:.3s;transition:.3s}.compare-panel{-webkit-transition:all .9s cubic-bezier(.19,1,.22,1) 0s;transition:all .9s cubic-bezier(.19,1,.22,1) 0s}@media (max-width:768px){.container{padding-right:15px;padding-left:15px}}@media (max-width:767px){.container{width:480px}}@media (max-width:481px){.container{width:100%}}body{text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;padding-right:0!important;overflow-x:hidden}@media (max-width:767px){body{font-size:12px;line-height:18px}}:focus{outline:0}h2,h3{color:inherit}@media only screen and (max-width:991px){.header-bottom{display:none}}.header-section-2{z-index:11}.header-section-2 .logo{padding-left:20px}.header-section-2 .header-top{min-height:70px}@media (max-width:991px){.header-section-2 .header-top{padding:10px 15px;height:45px;min-height:0}}.header-section-2 .navi>ul>li>a{padding:0 15px;line-height:46px}.navi li,.navi ul{list-style:none}.navi a{padding:15px;-webkit-user-select:none}.navi>ul>li{overflow:hidden}#section-body{padding-bottom:40px}.compare-panel{z-index:1000;width:240px;background-color:#fff;box-shadow:0 2px 4px 0 rgba(0,0,0,.2);-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}.widget-top{margin-bottom:17px}.widget-body{font-size:14px}.footer-widget{margin-bottom:30px}@media (min-width:768px) and (max-width:991px){.footer-widget{margin-bottom:30px}}@media (max-width:767px){.footer-widget{margin-bottom:30px}}.footer-widget .widget-title{font-size:18px;line-height:24px}.footer{margin-bottom:-30px;padding:100px 0 70px;background-color:#363636}@media (max-width:767px){.footer{padding:45px 0 35px}}.footer-bottom{padding:30px 0 25px;font-size:14px}@media (max-width:767px){.footer-bottom{padding:15px 0}}@media (max-width:767px){.footer-bottom div[class*=col-]{margin-bottom:15px;text-align:center}.footer-bottom div[class*=col-]:last-child{margin:0}}p{margin:0 0 20px 0}h2{font-size:20px;line-height:24px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h2{font-size:16px;line-height:22px;margin-bottom:15px}}h3{font-size:18px;line-height:22px;font-weight:500;margin:0 0 20px}@media (max-width:767px){h3{font-size:14px;line-height:18px;margin-bottom:15px}}@media (max-width:767px){p{font-size:12px;line-height:22px;margin-bottom:15px}} @font-face{font-family:Raleway;font-style:normal;font-weight:700;src:local('Raleway Bold'),local('Raleway-Bold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwJYtWqZPBQ.ttf) format('truetype')}@font-face{font-family:Raleway;font-style:normal;font-weight:800;src:local('Raleway ExtraBold'),local('Raleway-ExtraBold'),url(https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwIouWqZPBQ.ttf) format('truetype')}@font-face{font-family:Roboto;font-style:normal;font-weight:900;src:local('Roboto Black'),local('Roboto-Black'),url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfBBc9.ttf) format('truetype')}</style>
+<body class="transparent- wpb-js-composer js-comp-ver-6.1 vc_responsive cornerstone-v3_5_4">
+<header class="header-section-2 houzez-header-main houzez-user-logout" id="header-section">
+<div class="header-top">
+<div class="logo logo-desktop">
+<a href="#">
+<h2>
+{{ keyword }}
+</h2>
+</a>
+</div>
+</div>
+<div class="header-bottom" data-sticky="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-12 col-xs-12">
+<div class="header-nav">
+<nav class="navi main-nav">
+<ul class="" id="main-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-613" id="menu-item-613"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-614" id="menu-item-614"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-645" id="menu-item-645"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-827" id="menu-item-827"><a href="#">Contact Us</a></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="" id="section-body">
+<div class="container">
+<div class="compare-panel" id="compare-controller">
+<div id="compare-properties-basket">
+</div>
+</div>
+{{ text }}
+ </div> 
+</div> 
+<footer id="footer-section">
+<div class="footer footer-v2">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-6 col-xs-12"><div class="footer-widget widget-about" id="houzez_about_widget-1"><div class="widget-top"><h3 class="widget-title" style="color:#FFF">Related</h3></div>
+<div class="widget-body" style="color:#FFF">
+{{ links }}
+</div>
+</div></div></div>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-3">
+<div class="footer-col">
+<p>{{ keyword }} 2021</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:3829:"Genshin Impact has been the dark horse of new releases this year, winning the Editor’s Choice award at Google’s Best of Play as well as PlayStation’s September’s Players’ Choice. Food delivery is a daily commission issued by an NPC in Genshin Impact. Full-game Leaderboard Level Leaderboard View all Amber Kaeya Lisa Xiangling (Cave) Diluc. r/Genshin_Impact This is the official community for Genshin Impact (原神), the latest open-world action RPG developed by miHoYo. r/Genshin_Impact This is the official community for Genshin Impact (原神), the latest open-world action RPG developed by miHoYo. Genshin Impact 2020. Marvelous Merchandise Event (Box O' Marvels – Pyro) – Genshin Impact 4 months ago No Comments; Spatial Sound On The Xbox Series X|S 5 months ago 30 Comments; Genshin Impact OST Piano – Tender Strength 3 months ago 4 Comments With a new event underway, gameplay is heating up when it comes to speedruns. The game features a massive, gorgeous map, an elaborate elemental combat system, engaging storyline & characters, co-op game mode, soothing soundtrack, and much more for you to … Guides Resources Discord Streams Forum Statistics Sub-games. r/Genshin_Impact This is the official community for Genshin Impact (原神), the latest open-world action RPG developed by miHoYo. Since Genshin Impact has a massive map to explore, there are tons of players who have been having trouble finding the fastest character in the game. Hitting that benchmark on some of these floors is impressive enough, so 33 seconds just seems kind of unreal. There are timed challenges to clear mobs of enemies, with the fastest goal at 180 seconds. Genshin Impact has multiple story quests, and everything will eventually be released in phases. I didn't really know about the benefits of artifacts or levelling weapons until I reached AR 40, and didn't really care about farming until AR 45 + . Now I'm AR 52, none of my characters have good builds, and I'm decently underleveled (My DPS is level 80). Genshin Impact – AR55 Weapon Banner Summons – C6 Xiao Main – 7 Days Until Hu Tao !commands 2 months ago 21 Comments; Prowler Buff Season 8 Apex Legends + Unfinished Skins 4 months ago 26 Comments; Medieval Dynasty S1 E65 3 months ago 2 Comments; Warhammer 40000 Darktide Gameplay Reveal – Playable Characters, Weaponry, Enemy Types and More! The game features a massive, gorgeous map, an elaborate elemental combat system, engaging storyline & characters, co-op game mode, soothing soundtrack, and much more for you to … Teaching my wife to become a Genshin Impact YouTuber – Genshin Tuesday #4 | Genshin Impact 3 months ago 47 Comments; HUGE Leaks about Fortnite's Halloween Update… 7 months ago 29 Comments; REACTING TO SUPER MARIO 3D WORLD + BOWSERS FURY NEW TRAILER 4 months ago 50 Comments; If Among Us Had Ads Like Mafia City 7 months ago No Comments ". Genshin Impact — which released on September 28, 2020 — has become quite famous among the gaming community across the world. Clearing the daunting tower is considered Genshin Impact's primary endgame at the moment, and plenty of those floors are a pain to get through. For Genshin Impact on the PC, a GameFAQs message board topic titled "How long would it take to speedrun the waypoints/statues of seven in this game?  PS4, PC, Android, iOS. The game features a massive, gorgeous map, an elaborate elemental combat system, engaging storyline & characters, co-op game mode, soothing soundtrack, and much more for you to … On Thursday, January 13, YouTube user Memorii claims to have set the world record for the Ganyu any% speedrun in the action role-playing game Genshin Impact.The player posted a video on their YouTube channel, showing the techniques used to … Is there a way to speedrun building + levelling or am I screwed? ";s:7:"keyword";s:23:"genshin impact speedrun";s:5:"links";s:1047:"<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/pon-de-replay">Pon De Replay</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/aham-sharma-wikipedia">Aham Sharma Wikipedia</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/meenakshi-iyer-santhosh-age">Meenakshi Iyer Santhosh Age</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/pyar-ka-matlab-rab-hota-hai-lyrics">Pyar Ka Matlab Rab Hota Hai Lyrics</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/queen-of-portugal">Queen Of Portugal</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/tuca-tuca-mega">Tuca Tuca Mega</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/crazy%2Fbeautiful-amazon-prime">Crazy/beautiful Amazon Prime</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/zerodha-pi-vs-kite">Zerodha Pi Vs Kite</a>,
+<a href="http://suam.cucsh.udg.mx/inscripciones2020b/storage/tmkjf/ajay-gehi-age">Ajay Gehi Age</a>,
+";s:7:"expired";i:-1;}
